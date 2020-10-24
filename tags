@@ -1,0 +1,771 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/aac6193/
+1. Bạn sẽ không nhớ được tất cả	translations/README-vi.md	/^### 1. Bạn sẽ không nhớ được tất cả$/;"	S	line:414	language:Markdown	section:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)""Trước khi bắt đầu
+1. Du wirst dich nicht an alles erinnern können	translations/README-de.md	/^### 1. Du wirst dich nicht an alles erinnern können$/;"	S	line:417	language:Markdown	section:Coding Interview University""Bevor du anfängst
+1. Kamu Tidak Akan Mengingat Semuanya	translations/README-id.md	/^### 1. Kamu Tidak Akan Mengingat Semuanya$/;"	S	line:418	language:Markdown	section:Coding Interview University""Sebelum Anda Mulai
+1. Nie zapamiętasz tego wszystkiego	translations/README-pl.md	/^### 1. Nie zapamiętasz tego wszystkiego$/;"	S	line:354	language:Markdown	section:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University""Zanim zaczniesz
+1. No recordará todo	translations/README-es.md	/^Aquí algunos de mis errores para que pueda tener una mejor experiencia.$/;"	S	line:388	language:Markdown	section:Coding Interview University""Antes de iniciar
+1. Você não se lembrará de tudo	translations/README-ptbr.md	/^### 1. Você não se lembrará de tudo$/;"	S	line:400	language:Markdown	section:Universidade de Entrevista de Programação""Antes de começar
+1. You Won't Remember it All	README.md	/^### 1. You Won't Remember it All$/;"	S	line:373	language:Markdown	section:Coding Interview University""Before you Get Started
+1. You Won't Remember it All	translations/README-fr.md	/^### 1. You Won't Remember it All$/;"	S	line:453	language:Markdown	section:Coding Interview University""Before you Get Started
+1. You Won't Remember it All	translations/README-he.md	/^### 1. You Won't Remember it All$/;"	S	line:447	language:Markdown	section:Before you Get Started
+1. You Won't Remember it All	translations/README-uk.md	/^### 1. You Won't Remember it All$/;"	S	line:374	language:Markdown	section:Coding Interview University""Before you Get Started
+1. لن تتذكر هذا كله	translations/README-ar.md	/^### 1. لن تتذكر هذا كله$/;"	S	line:465	language:Markdown	section:الإعداد لجوجل""قبل البدء
+1. คุณไม่สามารถจำได้ทุกสิ่งอย่าง	translations/README-th.md	/^### 1. คุณไม่สามารถจำได้ทุกสิ่งอย่าง$/;"	S	line:376	language:Markdown	section:Coding Interview University""ก่อนที่จะเริ่มต้น
+1. 你不可能把所有的东西都记住	translations/README-cn.md	/^### 1. 你不可能把所有的东西都记住$/;"	S	line:243	language:Markdown	section:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试""在你开始之前
+1. 你沒辦法記住所有事情	translations/README-tw.md	/^### 1. 你沒辦法記住所有事情$/;"	S	line:348	language:Markdown	section:Coding Interview University""在你開始之前
+1. 당신은 이것을 다 기억하지 못할 것이다.	translations/README-ko.md	/^### 1. 당신은 이것을 다 기억하지 못할 것이다.$/;"	S	line:365	language:Markdown	section:코딩 인터뷰 대학(Coding Interview University)""시작하기 전에
+2. Benutz Lernkarten	translations/README-de.md	/^### 2. Benutz Lernkarten$/;"	S	line:426	language:Markdown	section:Coding Interview University""Bevor du anfängst
+2. Flashcard를 사용하자.	translations/README-ko.md	/^### 2. Flashcard를 사용하자.$/;"	S	line:375	language:Markdown	section:코딩 인터뷰 대학(Coding Interview University)""시작하기 전에
+2. Menggunakan Flashcards	translations/README-id.md	/^### 2. Menggunakan Flashcards$/;"	S	line:426	language:Markdown	section:Coding Interview University""Sebelum Anda Mulai
+2. Sử dụng thẻ ghi nhớ	translations/README-vi.md	/^### 2. Sử dụng thẻ ghi nhớ$/;"	S	line:422	language:Markdown	section:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)""Trước khi bắt đầu
+2. Use Flashcards	README.md	/^### 2. Use Flashcards$/;"	S	line:384	language:Markdown	section:Coding Interview University""Before you Get Started
+2. Use Flashcards	translations/README-fr.md	/^### 2. Use Flashcards$/;"	S	line:462	language:Markdown	section:Coding Interview University""Before you Get Started
+2. Use Flashcards	translations/README-he.md	/^### 2. Use Flashcards$/;"	S	line:456	language:Markdown	section:Before you Get Started
+2. Use Flashcards	translations/README-ptbr.md	/^### 2. Use Flashcards$/;"	S	line:408	language:Markdown	section:Universidade de Entrevista de Programação""Antes de começar
+2. Use Flashcards	translations/README-uk.md	/^### 2. Use Flashcards$/;"	S	line:383	language:Markdown	section:Coding Interview University""Before you Get Started
+2. Use tarjetas para recordar	translations/README-es.md	/^[Retaining Computer Science Knowledge](https:\/\/startupnextdoor.com\/retaining-computer-science/;"	S	line:397	language:Markdown	section:Coding Interview University""Antes de iniciar
+2. Użyj Flashcards	translations/README-pl.md	/^### 2. Użyj Flashcards$/;"	S	line:365	language:Markdown	section:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University""Zanim zaczniesz
+2. استخدام الفلاش كار	translations/README-ar.md	/^### 2. استخدام الفلاش كار$/;"	S	line:473	language:Markdown	section:الإعداد لجوجل""قبل البدء
+2. ใช้ Flashcards	translations/README-th.md	/^### 2. ใช้ Flashcards$/;"	S	line:385	language:Markdown	section:Coding Interview University""ก่อนที่จะเริ่มต้น
+2. 使用小字卡	translations/README-tw.md	/^### 2. 使用小字卡$/;"	S	line:358	language:Markdown	section:Coding Interview University""在你開始之前
+2. 使用抽认卡	translations/README-cn.md	/^### 2. 使用抽认卡$/;"	S	line:247	language:Markdown	section:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试""在你开始之前
+3. Review, review, review	translations/README-ar.md	/^### 3. Review, review, review$/;"	S	line:497	language:Markdown	section:الإعداد لجوجل""قبل البدء
+3. Review, review, review	translations/README-fr.md	/^### 3. Review, review, review$/;"	S	line:483	language:Markdown	section:Coding Interview University""Before you Get Started
+3. Review, review, review	translations/README-he.md	/^### 3. Review, review, review$/;"	S	line:477	language:Markdown	section:Before you Get Started
+3. Review, review, review	translations/README-id.md	/^### 3. Review, review, review$/;"	S	line:449	language:Markdown	section:Coding Interview University""Sebelum Anda Mulai
+3. Review, review, review	translations/README-uk.md	/^### 3. Review, review, review$/;"	S	line:407	language:Markdown	section:Coding Interview University""Before you Get Started
+3. Revise, Revise e Revise	translations/README-ptbr.md	/^### 3. Revise, Revise e Revise$/;"	S	line:430	language:Markdown	section:Universidade de Entrevista de Programação""Antes de começar
+3. Revise, revise, revise	translations/README-es.md	/^Mis tarjetas en el formato de Anki: https:\/\/ankiweb.net\/shared\/info\/25173560 (Gracias[@xiew/;"	S	line:418	language:Markdown	section:Coding Interview University""Antes de iniciar
+3. Start doing coding interview questions while you're learning data structures and algorithms	README.md	/^### 3. Start doing coding interview questions while you're learning data structures and algorith/;"	S	line:408	language:Markdown	section:Coding Interview University""Before you Get Started
+3. Wiederholen, wiederholen , wiederholen	translations/README-de.md	/^### 3. Wiederholen, wiederholen , wiederholen$/;"	S	line:452	language:Markdown	section:Coding Interview University""Bevor du anfängst
+3. Xem đi xem lại và xem lại nữa	translations/README-vi.md	/^### 3. Xem đi xem lại và xem lại nữa$/;"	S	line:442	language:Markdown	section:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)""Trước khi bắt đầu
+3. Zacznij robić pytania programistyczne do rozmowy kwalifikacyjnej, ucząc się struktur danych i algorytmów	translations/README-pl.md	/^### 3. Zacznij robić pytania programistyczne do rozmowy kwalifikacyjnej, ucząc się struktur d/;"	S	line:388	language:Markdown	section:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University""Zanim zaczniesz
+3. समीक्षा करें, समीक्षा करें, समीक्षा करें	translations/README-hi.md	/^$/;"	S	line:325	language:Markdown	section:कोडिंग साक्षात्कार विश्वविद्यालय""प्रारंभ करने से पहले
+3. ทบทวน, ทบทวน, ทบทวน	translations/README-th.md	/^### 3. ทบทวน, ทบทวน, ทบทวน $/;"	S	line:409	language:Markdown	section:Coding Interview University""ก่อนที่จะเริ่มต้น
+3. 回顾，回顾，回顾	translations/README-cn.md	/^### 3. 回顾，回顾，回顾$/;"	S	line:260	language:Markdown	section:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试""在你开始之前
+3. 學習資料結構與演算法的同時，也要做一些Coding面試中常出現的問題	translations/README-tw.md	/^### 3. 學習資料結構與演算法的同時，也要做一些Coding面試中常出現的問題$/;"	S	line:380	language:Markdown	section:Coding Interview University""在你開始之前
+3. 자료구조와 알고리즘을 배우면서 코딩 인터뷰를 시작하라	translations/README-ko.md	/^### 3. 자료구조와 알고리즘을 배우면서 코딩 인터뷰를 시작하라 $/;"	S	line:399	language:Markdown	section:코딩 인터뷰 대학(Coding Interview University)""시작하기 전에
+4. Enfóquese	translations/README-es.md	/^Tome un descanso de los problemas de programación por media hora y repase sus tarjetas.$/;"	S	line:424	language:Markdown	section:Coding Interview University""Antes de iniciar
+4. Foco	translations/README-ptbr.md	/^### 4. Foco$/;"	S	line:436	language:Markdown	section:Universidade de Entrevista de Programação""Antes de começar
+4. Focus	translations/README-ar.md	/^### 4. Focus$/;"	S	line:503	language:Markdown	section:الإعداد لجوجل""قبل البدء
+4. Focus	translations/README-fr.md	/^### 4. Focus$/;"	S	line:489	language:Markdown	section:Coding Interview University""Before you Get Started
+4. Focus	translations/README-he.md	/^### 4. Focus$/;"	S	line:483	language:Markdown	section:Before you Get Started
+4. Focus	translations/README-uk.md	/^### 4. Focus$/;"	S	line:413	language:Markdown	section:Coding Interview University""Before you Get Started
+4. Fokus	translations/README-de.md	/^### 4. Fokus$/;"	S	line:458	language:Markdown	section:Coding Interview University""Bevor du anfängst
+4. Fokus	translations/README-id.md	/^### 4. Fokus$/;"	S	line:455	language:Markdown	section:Coding Interview University""Sebelum Anda Mulai
+4. Przeglądaj, przeglądaj, przeglądaj	translations/README-pl.md	/^### 4. Przeglądaj, przeglądaj, przeglądaj$/;"	S	line:395	language:Markdown	section:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University""Zanim zaczniesz
+4. Review, review, review	README.md	/^### 4. Review, review, review$/;"	S	line:417	language:Markdown	section:Coding Interview University""Before you Get Started
+4. Tập trung	translations/README-vi.md	/^### 4. Tập trung$/;"	S	line:448	language:Markdown	section:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)""Trước khi bắt đầu
+4. फोकस	translations/README-hi.md	/^एक आधे घंटे के लिए प्रोग्रामिंग समस्/;"	S	line:332	language:Markdown	section:कोडिंग साक्षात्कार विश्वविद्यालय""प्रारंभ करने से पहले
+4. เพ่งสมาธิ	translations/README-th.md	/^### 4. เพ่งสมาธิ$/;"	S	line:415	language:Markdown	section:Coding Interview University""ก่อนที่จะเริ่มต้น
+4. 专注	translations/README-cn.md	/^### 4. 专注$/;"	S	line:266	language:Markdown	section:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试""在你开始之前
+4. 複習，複習，再複習	translations/README-tw.md	/^### 4. 複習，複習，再複習$/;"	S	line:384	language:Markdown	section:Coding Interview University""在你開始之前
+4. 검토, 검토, 검토	translations/README-ko.md	/^### 4. 검토, 검토, 검토$/;"	S	line:406	language:Markdown	section:코딩 인터뷰 대학(Coding Interview University)""시작하기 전에
+5. Focus	README.md	/^### 5. Focus$/;"	S	line:423	language:Markdown	section:Coding Interview University""Before you Get Started
+5. Skupienie	translations/README-pl.md	/^### 5. Skupienie$/;"	S	line:401	language:Markdown	section:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University""Zanim zaczniesz
+5. 專注	translations/README-tw.md	/^### 5. 專注$/;"	S	line:390	language:Markdown	section:Coding Interview University""在你開始之前
+5. 집중	translations/README-ko.md	/^### 5. 집중$/;"	S	line:412	language:Markdown	section:코딩 인터뷰 대학(Coding Interview University)""시작하기 전에
+Ablauf von Vorstellungsgesprächen und allgemeine Vorbereitung darauf	translations/README-de.md	/^## Ablauf von Vorstellungsgesprächen und allgemeine Vorbereitung darauf$/;"	s	line:253	language:Markdown	chapter:Coding Interview University
+About Video Resources	README.md	/^## About Video Resources$/;"	s	line:239	language:Markdown	chapter:Coding Interview University
+About Video Resources	translations/README-he.md	/^## About Video Resources$/;"	s	line:239	language:Markdown
+About Video Resources	translations/README-uk.md	/^## About Video Resources$/;"	s	line:195	language:Markdown	chapter:Coding Interview University
+About Video Resources(關於影片資源)	translations/README-tw.md	/^## About Video Resources(關於影片資源)$/;"	s	line:222	language:Markdown	chapter:Coding Interview University
+Acerca de los recursos de vídeo	translations/README-es.md	/^- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https:\/\/www.youtube.co/;"	s	line:211	language:Markdown	chapter:Coding Interview University
+Additional Books	README.md	/^## Additional Books$/;"	s	line:1411	language:Markdown	chapter:Coding Interview University
+Additional Books	translations/README-ar.md	/^## Additional Books$/;"	s	line:1498	language:Markdown	chapter:الإعداد لجوجل
+Additional Books	translations/README-fr.md	/^## Additional Books$/;"	s	line:1455	language:Markdown	chapter:Coding Interview University
+Additional Books	translations/README-he.md	/^## Additional Books$/;"	s	line:1450	language:Markdown
+Additional Books	translations/README-id.md	/^## Additional Books$/;"	s	line:1425	language:Markdown	chapter:Coding Interview University
+Additional Books	translations/README-ko.md	/^## Additional Books$/;"	s	line:1398	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+Additional Books	translations/README-th.md	/^## Additional Books$/;"	s	line:1455	language:Markdown	chapter:Coding Interview University
+Additional Books	translations/README-uk.md	/^## Additional Books$/;"	s	line:1456	language:Markdown	chapter:Coding Interview University
+Additional Detail on Some Subjects	README.md	/^## Additional Detail on Some Subjects$/;"	s	line:1802	language:Markdown	chapter:Coding Interview University
+Additional Detail on Some Subjects	translations/README-ar.md	/^## Additional Detail on Some Subjects$/;"	s	line:1894	language:Markdown	chapter:الإعداد لجوجل
+Additional Detail on Some Subjects	translations/README-fr.md	/^## Additional Detail on Some Subjects$/;"	s	line:1876	language:Markdown	chapter:Coding Interview University
+Additional Detail on Some Subjects	translations/README-he.md	/^## Additional Detail on Some Subjects$/;"	s	line:1871	language:Markdown
+Additional Detail on Some Subjects	translations/README-hi.md	/^--$/;"	s	line:1625	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+Additional Detail on Some Subjects	translations/README-id.md	/^## Additional Detail on Some Subjects$/;"	s	line:1846	language:Markdown	chapter:Coding Interview University
+Additional Detail on Some Subjects	translations/README-th.md	/^## Additional Detail on Some Subjects$/;"	s	line:1800	language:Markdown	chapter:Coding Interview University
+Additional Detail on Some Subjects	translations/README-uk.md	/^## Additional Detail on Some Subjects$/;"	s	line:1801	language:Markdown	chapter:Coding Interview University
+Additional Learning	README.md	/^## Additional Learning$/;"	s	line:1471	language:Markdown	chapter:Coding Interview University
+Additional Learning	translations/README-ar.md	/^## Additional Learning$/;"	s	line:1514	language:Markdown	chapter:الإعداد لجوجل
+Additional Learning	translations/README-fr.md	/^## Additional Learning$/;"	s	line:1471	language:Markdown	chapter:Coding Interview University
+Additional Learning	translations/README-he.md	/^## Additional Learning$/;"	s	line:1466	language:Markdown
+Additional Learning	translations/README-id.md	/^## Additional Learning$/;"	s	line:1441	language:Markdown	chapter:Coding Interview University
+Additional Learning	translations/README-ko.md	/^## Additional Learning$/;"	s	line:1458	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+Additional Learning	translations/README-th.md	/^## Additional Learning$/;"	s	line:1469	language:Markdown	chapter:Coding Interview University
+Additional Learning	translations/README-uk.md	/^## Additional Learning$/;"	s	line:1470	language:Markdown	chapter:Coding Interview University
+Additional Learnings (not required)	translations/README-hi.md	/^---$/;"	s	line:1428	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+Additional Resources	README.md	/^## Additional Resources$/;"	s	line:137	language:Markdown	chapter:Coding Interview University
+Additional books	translations/README-hi.md	/^    - If you see people reference "The Google Resume", it was a book replaced by "Cracking the C/;"	S	line:1332	language:Markdown	section:कोडिंग साक्षात्कार विश्वविद्यालय""Books
+Ainda Mais Conhecimento	translations/README-ptbr.md	/^## Ainda Mais Conhecimento$/;"	s	line:895	language:Markdown	chapter:Universidade de Entrevista de Programação
+Algorithmic complexity / Big-O / Asymptotic analysis	README.md	/^## Algorithmic complexity \/ Big-O \/ Asymptotic analysis$/;"	s	line:482	language:Markdown	chapter:Coding Interview University
+Algorithmic complexity / Big-O / Asymptotic analysis	translations/README-ar.md	/^## Algorithmic complexity \/ Big-O \/ Asymptotic analysis$/;"	s	line:559	language:Markdown	chapter:الإعداد لجوجل
+Algorithmic complexity / Big-O / Asymptotic analysis	translations/README-fr.md	/^## Algorithmic complexity \/ Big-O \/ Asymptotic analysis$/;"	s	line:545	language:Markdown	chapter:Coding Interview University
+Algorithmic complexity / Big-O / Asymptotic analysis	translations/README-he.md	/^## Algorithmic complexity \/ Big-O \/ Asymptotic analysis$/;"	s	line:539	language:Markdown
+Algorithmic complexity / Big-O / Asymptotic analysis	translations/README-uk.md	/^## Algorithmic complexity \/ Big-O \/ Asymptotic analysis$/;"	s	line:468	language:Markdown	chapter:Coding Interview University
+Algorithmische Komplexität / Big-O (Groß-O Notation) / Asymptotische Analyse	translations/README-de.md	/^## Algorithmische Komplexität \/ Big-O (Groß-O Notation) \/ Asymptotische Analyse$/;"	s	line:521	language:Markdown	chapter:Coding Interview University
+Antes de começar	translations/README-ptbr.md	/^## Antes de começar$/;"	s	line:394	language:Markdown	chapter:Universidade de Entrevista de Programação
+Antes de iniciar	translations/README-es.md	/^$/;"	s	line:382	language:Markdown	chapter:Coding Interview University
+Apa yang Tidak Akan Dibahas	translations/README-id.md	/^## Apa yang Tidak Akan Dibahas$/;"	s	line:459	language:Markdown	chapter:Coding Interview University
+Aprendizagem Adicional	translations/README-ptbr.md	/^## Aprendizagem Adicional$/;"	s	line:1500	language:Markdown	chapter:Universidade de Entrevista de Programação
+Aprendizaje adicional	translations/README-es.md	/^- [ ] [UNIX and Linux System Administration Handbook, 4th Edition](https:\/\/www.amazon.com\/UNI/;"	s	line:1468	language:Markdown	chapter:Coding Interview University
+Arquitectura de Computadores	translations/README-es.md	/^    - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https:\/\/g/;"	S	line:279	language:Markdown	section:Coding Interview University""Lista de libros
+Arquitetura de Computador	translations/README-ptbr.md	/^### Arquitetura de Computador$/;"	S	line:289	language:Markdown	section:Universidade de Entrevista de Programação""Lista de Livros
+Bagaimana cara menggunakannya?	translations/README-id.md	/^## Bagaimana cara menggunakannya?$/;"	s	line:155	language:Markdown	chapter:Coding Interview University
+Be thinking of for when the interview comes	README.md	/^## Be thinking of for when the interview comes$/;"	s	line:1356	language:Markdown	chapter:Coding Interview University
+Be thinking of for when the interview comes	translations/README-ar.md	/^## Be thinking of for when the interview comes$/;"	s	line:1442	language:Markdown	chapter:الإعداد لجوجل
+Be thinking of for when the interview comes	translations/README-fr.md	/^## Be thinking of for when the interview comes$/;"	s	line:1399	language:Markdown	chapter:Coding Interview University
+Be thinking of for when the interview comes	translations/README-he.md	/^## Be thinking of for when the interview comes$/;"	s	line:1394	language:Markdown
+Be thinking of for when the interview comes	translations/README-id.md	/^## Be thinking of for when the interview comes$/;"	s	line:1369	language:Markdown	chapter:Coding Interview University
+Be thinking of for when the interview comes	translations/README-th.md	/^## Be thinking of for when the interview comes$/;"	s	line:1401	language:Markdown	chapter:Coding Interview University
+Be thinking of for when the interview comes	translations/README-uk.md	/^## Be thinking of for when the interview comes$/;"	s	line:1402	language:Markdown	chapter:Coding Interview University
+Before you Get Started	README.md	/^## Before you Get Started$/;"	s	line:367	language:Markdown	chapter:Coding Interview University
+Before you Get Started	translations/README-fr.md	/^## Before you Get Started$/;"	s	line:447	language:Markdown	chapter:Coding Interview University
+Before you Get Started	translations/README-he.md	/^## Before you Get Started$/;"	s	line:441	language:Markdown
+Before you Get Started	translations/README-uk.md	/^## Before you Get Started$/;"	s	line:368	language:Markdown	chapter:Coding Interview University
+Bevor du anfängst	translations/README-de.md	/^## Bevor du anfängst$/;"	s	line:411	language:Markdown	chapter:Coding Interview University
+Book List	README.md	/^## Book List$/;"	s	line:298	language:Markdown	chapter:Coding Interview University
+Book List	translations/README-fr.md	/^## Book List$/;"	s	line:313	language:Markdown	chapter:Coding Interview University
+Book List	translations/README-he.md	/^## Book List$/;"	s	line:307	language:Markdown
+Book List	translations/README-uk.md	/^## Book List$/;"	s	line:245	language:Markdown	chapter:Coding Interview University
+Books	translations/README-hi.md	/^   $/;"	s	line:1307	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+C'est quoi?	translations/README-fr.md	/^## C'est quoi?$/;"	s	line:8	language:Markdown	chapter:Coding Interview University
+C++	README.md	/^### C++$/;"	S	line:332	language:Markdown	section:Coding Interview University""Book List
+C++	translations/README-ar.md	/^### C++$/;"	S	line:379	language:Markdown	section:الإعداد لجوجل""قائمة الكتب
+C++	translations/README-de.md	/^### C++$/;"	S	line:364	language:Markdown	section:Coding Interview University""Literaturliste
+C++	translations/README-es.md	/^[Recursos adicionales específicos del lenguaje aquí.](programming-language-resources.md)$/;"	S	line:311	language:Markdown	section:Coding Interview University""Lista de libros
+C++	translations/README-fr.md	/^### C++$/;"	S	line:367	language:Markdown	section:Coding Interview University""Book List
+C++	translations/README-he.md	/^### C++$/;"	S	line:361	language:Markdown	section:Book List
+C++	translations/README-id.md	/^### C++$/;"	S	line:333	language:Markdown	section:Coding Interview University""Daftar Buku
+C++	translations/README-ko.md	/^### C++$/;"	S	line:324	language:Markdown	section:코딩 인터뷰 대학(Coding Interview University)""도서 목록
+C++	translations/README-pl.md	/^### C++$/;"	S	line:316	language:Markdown	section:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University""Lista książek
+C++	translations/README-ptbr.md	/^### C++$/;"	S	line:321	language:Markdown	section:Universidade de Entrevista de Programação""Lista de Livros
+C++	translations/README-th.md	/^### C++$/;"	S	line:297	language:Markdown	section:Coding Interview University""รายชื่อหนังสือ
+C++	translations/README-tw.md	/^### C++$/;"	S	line:310	language:Markdown	section:Coding Interview University""書單(Book List)
+C++	translations/README-uk.md	/^### C++$/;"	S	line:295	language:Markdown	section:Coding Interview University""Book List
+C++	translations/README-vi.md	/^### C++$/;"	S	line:331	language:Markdown	section:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)""Danh mục sách
+Chuẩn bị câu hỏi dành cho phỏng vấn viên	translations/README-vi.md	/^## Chuẩn bị câu hỏi dành cho phỏng vấn viên$/;"	s	line:1453	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Chuẩn bị phỏng vấn	translations/README-vi.md	/^### Chuẩn bị phỏng vấn$/;"	S	line:277	language:Markdown	section:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)""Danh mục sách
+Chọn ngôn ngữ lập trình cho cuộc phỏng vấn	translations/README-vi.md	/^## Chọn ngôn ngữ lập trình cho cuộc phỏng vấn$/;"	s	line:246	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Co to jest?	translations/README-pl.md	/^## Co to jest?$/;"	s	line:47	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Coding Interview University	README.md	/^# Coding Interview University$/;"	c	line:1	language:Markdown
+Coding Interview University	translations/README-de.md	/^# Coding Interview University$/;"	c	line:1	language:Markdown
+Coding Interview University	translations/README-es.md	/^# Coding Interview University$/;"	c	line:1	language:Markdown
+Coding Interview University	translations/README-fr.md	/^# Coding Interview University$/;"	c	line:1	language:Markdown
+Coding Interview University	translations/README-id.md	/^# Coding Interview University$/;"	c	line:1	language:Markdown
+Coding Interview University	translations/README-th.md	/^# Coding Interview University #$/;"	c	line:1	language:Markdown
+Coding Interview University	translations/README-tw.md	/^# Coding Interview University$/;"	c	line:1	language:Markdown
+Coding Interview University	translations/README-uk.md	/^# Coding Interview University$/;"	c	line:1	language:Markdown
+Coding Question Practice	README.md	/^## Coding Question Practice$/;"	s	line:1256	language:Markdown	chapter:Coding Interview University
+Coding Question Practice	translations/README-ar.md	/^## Coding Question Practice$/;"	s	line:1365	language:Markdown	chapter:الإعداد لجوجل
+Coding Question Practice	translations/README-fr.md	/^## Coding Question Practice$/;"	s	line:1322	language:Markdown	chapter:Coding Interview University
+Coding Question Practice	translations/README-he.md	/^## Coding Question Practice$/;"	s	line:1316	language:Markdown
+Coding Question Practice	translations/README-id.md	/^## Coding Question Practice$/;"	s	line:1292	language:Markdown	chapter:Coding Interview University
+Coding Question Practice	translations/README-th.md	/^## Coding Question Practice$/;"	s	line:1321	language:Markdown	chapter:Coding Interview University
+Coding Question Practice	translations/README-uk.md	/^## Coding Question Practice$/;"	s	line:1322	language:Markdown	chapter:Coding Interview University
+Coding exercises/challenges	README.md	/^## Coding exercises\/challenges$/;"	s	line:1298	language:Markdown	chapter:Coding Interview University
+Coding exercises/challenges	translations/README-ar.md	/^## Coding exercises\/challenges$/;"	s	line:1407	language:Markdown	chapter:الإعداد لجوجل
+Coding exercises/challenges	translations/README-fr.md	/^## Coding exercises\/challenges$/;"	s	line:1364	language:Markdown	chapter:Coding Interview University
+Coding exercises/challenges	translations/README-hi.md	/^    - good book on problem solving in general.$/;"	s	line:1356	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+Coding exercises/challenges	translations/README-id.md	/^## Coding exercises\/challenges$/;"	s	line:1334	language:Markdown	chapter:Coding Interview University
+Coding exercises/challenges	translations/README-th.md	/^## Coding exercises\/challenges$/;"	s	line:1361	language:Markdown	chapter:Coding Interview University
+Coding exercises/challenges	translations/README-uk.md	/^## Coding exercises\/challenges$/;"	s	line:1362	language:Markdown	chapter:Coding Interview University
+Como usar	translations/README-ptbr.md	/^## Como usar$/;"	s	line:185	language:Markdown	chapter:Universidade de Entrevista de Programação
+Como usarlo	translations/README-es.md	/^Es un plan largo, puede tome unos meses; pero si le resulta familiar mucho de esto le tomara muc/;"	s	line:177	language:Markdown	chapter:Coding Interview University
+Complejidad algorítmica / Big-O / Análisis asintótico	translations/README-es.md	/^    - [ ] [Machine Code Instructions (video)](https:\/\/www.youtube.com\/watch?v=Mv2XQgpbTNE)$/;"	s	line:479	language:Markdown	chapter:Coding Interview University
+Complexidade Algorítmica / Big-O / Análise assintótica	translations/README-ptbr.md	/^## Complexidade Algorítmica \/ Big-O \/ Análise assintótica$/;"	s	line:491	language:Markdown	chapter:Universidade de Entrevista de Programação
+Computer Architecture	translations/README-fr.md	/^### Computer Architecture$/;"	S	line:335	language:Markdown	section:Coding Interview University""Book List
+Computer Architecture	translations/README-he.md	/^### Computer Architecture$/;"	S	line:329	language:Markdown	section:Book List
+Computer Architecture	translations/README-id.md	/^### Computer Architecture$/;"	S	line:301	language:Markdown	section:Coding Interview University""Daftar Buku
+Computer Architecture	translations/README-uk.md	/^### Computer Architecture$/;"	S	line:263	language:Markdown	section:Coding Interview University""Book List
+Computer Science Courses	README.md	/^## Computer Science Courses$/;"	s	line:1952	language:Markdown	chapter:Coding Interview University
+Computer Science Courses	translations/README-ar.md	/^## Computer Science Courses$/;"	s	line:2028	language:Markdown	chapter:الإعداد لجوجل
+Computer Science Courses	translations/README-fr.md	/^## Computer Science Courses$/;"	s	line:2010	language:Markdown	chapter:Coding Interview University
+Computer Science Courses	translations/README-he.md	/^## Computer Science Courses$/;"	s	line:2005	language:Markdown
+Computer Science Courses	translations/README-id.md	/^## Computer Science Courses$/;"	s	line:1980	language:Markdown	chapter:Coding Interview University
+Computer Science Courses	translations/README-ko.md	/^## Computer Science Courses$/;"	s	line:1943	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+Computer Science Courses	translations/README-uk.md	/^## Computer Science Courses$/;"	s	line:1935	language:Markdown	chapter:Coding Interview University
+Conhecimento Prévio	translations/README-ptbr.md	/^## Conhecimento Prévio$/;"	s	line:478	language:Markdown	chapter:Universidade de Entrevista de Programação
+Conocimientos Previos	translations/README-es.md	/^Escriba código en un pizarrón o en papel no en la computadora. Pruebe con alguna entrada de pr/;"	s	line:467	language:Markdown	chapter:Coding Interview University
+Cursos de Ciência da Computação	translations/README-ptbr.md	/^## Cursos de Ciência da Computação$/;"	s	line:1964	language:Markdown	chapter:Universidade de Entrevista de Programação
+Cursos de Informática	translations/README-es.md	/^- [ ] [Graph Theory by Sarada Herke (67 videos)](https:\/\/www.youtube.com\/user\/DrSaradaHerke\//;"	s	line:1912	language:Markdown	chapter:Coding Interview University
+Czego tutaj nie zobaczysz	translations/README-pl.md	/^## Czego tutaj nie zobaczysz$/;"	s	line:405	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Các chuỗi Video	translations/README-vi.md	/^## Các chuỗi Video$/;"	s	line:1888	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Các khóa học khoa học máy tính	translations/README-vi.md	/^## Các khóa học khoa học máy tính$/;"	s	line:1952	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Cây	translations/README-vi.md	/^## Cây$/;"	s	line:692	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Cấu trúc dữ liệu	translations/README-vi.md	/^## Cấu trúc dữ liệu$/;"	s	line:531	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Daftar Buku	translations/README-id.md	/^## Daftar Buku$/;"	s	line:279	language:Markdown	chapter:Coding Interview University
+Daftar Isi	translations/README-id.md	/^## Daftar Isi$/;"	s	line:25	language:Markdown	chapter:Coding Interview University
+Danh mục sách	translations/README-vi.md	/^## Danh mục sách$/;"	s	line:272	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Data Structures	README.md	/^## Data Structures$/;"	s	line:505	language:Markdown	chapter:Coding Interview University
+Data Structures	translations/README-ar.md	/^## Data Structures$/;"	s	line:583	language:Markdown	chapter:الإعداد لجوجل
+Data Structures	translations/README-fr.md	/^## Data Structures$/;"	s	line:569	language:Markdown	chapter:Coding Interview University
+Data Structures	translations/README-he.md	/^## Data Structures$/;"	s	line:563	language:Markdown
+Data Structures	translations/README-uk.md	/^## Data Structures$/;"	s	line:492	language:Markdown	chapter:Coding Interview University
+Datenstrukturen	translations/README-de.md	/^## Datenstrukturen$/;"	s	line:550	language:Markdown	chapter:Coding Interview University
+Dein Lebenslauf	translations/README-de.md	/^## Dein Lebenslauf$/;"	s	line:1456	language:Markdown	chapter:Coding Interview University
+Denk dran wenn das Vorstellungsgespräch kommt	translations/README-de.md	/^## Denk dran wenn das Vorstellungsgespräch kommt$/;"	s	line:1461	language:Markdown	chapter:Coding Interview University
+Der Tagesplan	translations/README-de.md	/^## Der Tagesplan$/;"	s	line:470	language:Markdown	chapter:Coding Interview University
+Design de Sistema, Escalabilidade, Tratamento de Dados	translations/README-ptbr.md	/^## Design de Sistema, Escalabilidade, Tratamento de Dados$/;"	s	line:1182	language:Markdown	chapter:Universidade de Entrevista de Programação
+Detalhes Adicionais Sobre Alguns Assuntos	translations/README-ptbr.md	/^## Detalhes Adicionais Sobre Alguns Assuntos$/;"	s	line:1830	language:Markdown	chapter:Universidade de Entrevista de Programação
+Detalles adicionales de ciertos temas	translations/README-es.md	/^--$/;"	s	line:1779	language:Markdown	chapter:Coding Interview University
+Did I Get the Job?	translations/README-fr.md	/^## Did I Get the Job?$/;"	s	line:203	language:Markdown	chapter:Coding Interview University
+Diseño del Sistema, Escalabilidad, Manejo de Datos	translations/README-es.md	/^        - [ ] [Socket Programming (video)](https:\/\/www.youtube.com\/watch?v=G75vN2mnJeQ)$/;"	s	line:1162	language:Markdown	chapter:Coding Interview University
+Dlaczego z tego korzystać?	translations/README-pl.md	/^## Dlaczego z tego korzystać?$/;"	s	line:180	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Dodatkowe książki	translations/README-pl.md	/^## Dodatkowe książki$/;"	s	line:1387	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Dodatkowe materiały	translations/README-pl.md	/^## Dodatkowe materiały$/;"	s	line:132	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Dodatkowe materiały	translations/README-pl.md	/^## Dodatkowe materiały$/;"	s	line:1447	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Dodatkowe szczegóły na niektóre tematy	translations/README-pl.md	/^## Dodatkowe szczegóły na niektóre tematy$/;"	s	line:1778	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Don't feel you aren't smart enough	README.md	/^## Don't feel you aren't smart enough$/;"	s	line:233	language:Markdown	chapter:Coding Interview University
+Don't feel you aren't smart enough(不要覺得自己不夠聰明)	translations/README-tw.md	/^## Don't feel you aren't smart enough(不要覺得自己不夠聰明)$/;"	s	line:216	language:Markdown	chapter:Coding Interview University
+Drzewa	translations/README-pl.md	/^## Drzewa$/;"	s	line:644	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Ejercicios de codificación/Desafíos	translations/README-es.md	/^Vea [Lista de libros](#lista-de-libros)$/;"	s	line:1362	language:Markdown	chapter:Coding Interview University
+El plan diario	translations/README-es.md	/^- HTML, CSS, y otras tecnologías front-end$/;"	s	line:436	language:Markdown	chapter:Coding Interview University
+Escoja un lenguaje para la entrevista	translations/README-es.md	/^        - Un curso enfocado a una entrevista centrada en Python; que cubre estructuras de datos,/;"	s	line:237	language:Markdown	chapter:Coding Interview University
+Escolha Uma Linguagem para a Entrevista	translations/README-ptbr.md	/^## Escolha Uma Linguagem para a Entrevista$/;"	s	line:246	language:Markdown	chapter:Universidade de Entrevista de Programação
+Específico de Linguagem	translations/README-ptbr.md	/^### Específico de Linguagem$/;"	S	line:312	language:Markdown	section:Universidade de Entrevista de Programação""Lista de Livros
+Específicos del lenguaje	translations/README-es.md	/^    - Para un tratamiento más rico y actualizado (2011), pero un trato más largo.$/;"	S	line:302	language:Markdown	section:Coding Interview University""Lista de libros
+Esteja pensando à respeito para quando a entrevista chegar	translations/README-ptbr.md	/^## Esteja pensando à respeito para quando a entrevista chegar$/;"	s	line:1432	language:Markdown	chapter:Universidade de Entrevista de Programação
+Estructuras de datos	translations/README-es.md	/^    Si algunas de las lecturas son muy matemáticas puede saltar a la parte inferior y ver las m/;"	s	line:502	language:Markdown	chapter:Coding Interview University
+Estrutura de Dados	translations/README-ptbr.md	/^## Estrutura de Dados$/;"	s	line:515	language:Markdown	chapter:Universidade de Entrevista de Programação
+Even More Knowledge	README.md	/^## Even More Knowledge$/;"	s	line:883	language:Markdown	chapter:Coding Interview University
+Even More Knowledge	translations/README-ar.md	/^## Even More Knowledge$/;"	s	line:967	language:Markdown	chapter:الإعداد لجوجل
+Even More Knowledge	translations/README-fr.md	/^## Even More Knowledge$/;"	s	line:953	language:Markdown	chapter:Coding Interview University
+Even More Knowledge	translations/README-he.md	/^## Even More Knowledge$/;"	s	line:947	language:Markdown
+Even More Knowledge	translations/README-hi.md	/^You'll get more graph practice in Skiena's book (see Books section below) and the interview book/;"	s	line:890	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+Even More Knowledge	translations/README-id.md	/^## Even More Knowledge$/;"	s	line:919	language:Markdown	chapter:Coding Interview University
+Even More Knowledge	translations/README-ko.md	/^## Even More Knowledge$/;"	s	line:876	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+Even More Knowledge	translations/README-th.md	/^## Even More Knowledge$/;"	s	line:872	language:Markdown	chapter:Coding Interview University
+Even More Knowledge	translations/README-uk.md	/^## Even More Knowledge$/;"	s	line:871	language:Markdown	chapter:Coding Interview University
+Exercícios/desafios de programação	translations/README-ptbr.md	/^## Exercícios\/desafios de programação$/;"	s	line:1388	language:Markdown	chapter:Universidade de Entrevista de Programação
+Final Review	README.md	/^## Final Review$/;"	s	line:1242	language:Markdown	chapter:Coding Interview University
+Final Review	translations/README-ar.md	/^## Final Review$/;"	s	line:1327	language:Markdown	chapter:الإعداد لجوجل
+Final Review	translations/README-fr.md	/^## Final Review$/;"	s	line:1284	language:Markdown	chapter:Coding Interview University
+Final Review	translations/README-he.md	/^## Final Review$/;"	s	line:1278	language:Markdown
+Final Review	translations/README-hi.md	/^---$/;"	s	line:1289	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+Final Review	translations/README-id.md	/^## Final Review$/;"	s	line:1254	language:Markdown	chapter:Coding Interview University
+Final Review	translations/README-th.md	/^## Final Review$/;"	s	line:1283	language:Markdown	chapter:Coding Interview University
+Final Review	translations/README-uk.md	/^## Final Review$/;"	s	line:1284	language:Markdown	chapter:Coding Interview University
+Finaler Rückblick	translations/README-de.md	/^## Finaler Rückblick$/;"	s	line:1346	language:Markdown	chapter:Coding Interview University
+Follow Along with Me	translations/README-fr.md	/^## Follow Along with Me$/;"	s	line:209	language:Markdown	chapter:Coding Interview University
+Follow Along with Me	translations/README-he.md	/^## Follow Along with Me$/;"	s	line:203	language:Markdown
+Gdy już jesteś bliżej rozmowy rekrutacyjnej	translations/README-pl.md	/^## Gdy już jesteś bliżej rozmowy rekrutacyjnej$/;"	s	line:1321	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Gdy już zdobędziesz pracę	translations/README-pl.md	/^## Gdy już zdobędziesz pracę$/;"	s	line:1365	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+General:	translations/README-hi.md	/^    (More items will be added here)$/;"	t	line:1295	language:Markdown	section:कोडिंग साक्षात्कार विश्वविद्यालय""Final Review
+Get in a Googley Mood	translations/README-fr.md	/^## Get in a Googley Mood$/;"	s	line:197	language:Markdown	chapter:Coding Interview University
+Get in a Googley Mood	translations/README-he.md	/^## Get in a Googley Mood$/;"	s	line:191	language:Markdown
+Giải bài tập lập trình	translations/README-vi.md	/^## Giải bài tập lập trình$/;"	s	line:1400	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Giới thiệu	translations/README-vi.md	/^## Giới thiệu$/;"	s	line:32	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Google Coaching 里提到的	translations/README-cn.md	/^### Google Coaching 里提到的$/;"	S	line:1139	language:Markdown	section:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试""书籍
+Grafos	translations/README-es.md	/^Si necesita más detalle de este tema vea “Ordenamientos” en [Detalles adicionales de cierto/;"	s	line:819	language:Markdown	chapter:Coding Interview University
+Grafos	translations/README-ptbr.md	/^## Grafos$/;"	s	line:837	language:Markdown	chapter:Universidade de Entrevista de Programação
+Grafy	translations/README-pl.md	/^## Grafy$/;"	s	line:800	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Graphen	translations/README-de.md	/^## Graphen$/;"	s	line:890	language:Markdown	chapter:Coding Interview University
+Graphs	README.md	/^## Graphs$/;"	s	line:823	language:Markdown	chapter:Coding Interview University
+Graphs	translations/README-ar.md	/^## Graphs$/;"	s	line:903	language:Markdown	chapter:الإعداد لجوجل
+Graphs	translations/README-fr.md	/^## Graphs$/;"	s	line:889	language:Markdown	chapter:Coding Interview University
+Graphs	translations/README-he.md	/^## Graphs$/;"	s	line:883	language:Markdown
+Graphs	translations/README-hi.md	/^    - [ ] [Sorting in Linear Time (विडियो)](https:\/\/www.youtube.com\/watch?v=pOKy3/;"	s	line:826	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+Graphs	translations/README-id.md	/^## Graphs$/;"	s	line:855	language:Markdown	chapter:Coding Interview University
+Graphs	translations/README-th.md	/^## Graphs$/;"	s	line:814	language:Markdown	chapter:Coding Interview University
+Graphs	translations/README-uk.md	/^## Graphs$/;"	s	line:813	language:Markdown	chapter:Coding Interview University
+Halt dich nicht für dümmer als du bist	translations/README-de.md	/^## Halt dich nicht für dümmer als du bist$/;"	s	line:236	language:Markdown	chapter:Coding Interview University
+Have questions for the interviewer	README.md	/^## Have questions for the interviewer$/;"	s	line:1374	language:Markdown	chapter:Coding Interview University
+Have questions for the interviewer	translations/README-ar.md	/^## Have questions for the interviewer$/;"	s	line:1460	language:Markdown	chapter:الإعداد لجوجل
+Have questions for the interviewer	translations/README-fr.md	/^## Have questions for the interviewer$/;"	s	line:1417	language:Markdown	chapter:Coding Interview University
+Have questions for the interviewer	translations/README-he.md	/^## Have questions for the interviewer$/;"	s	line:1412	language:Markdown
+Have questions for the interviewer	translations/README-id.md	/^## Have questions for the interviewer$/;"	s	line:1387	language:Markdown	chapter:Coding Interview University
+Have questions for the interviewer	translations/README-th.md	/^## Have questions for the interviewer$/;"	s	line:1419	language:Markdown	chapter:Coding Interview University
+Have questions for the interviewer	translations/README-uk.md	/^## Have questions for the interviewer$/;"	s	line:1420	language:Markdown	chapter:Coding Interview University
+How to use it	README.md	/^## How to use it$/;"	s	line:196	language:Markdown	chapter:Coding Interview University
+How to use it	translations/README-fr.md	/^## How to use it$/;"	s	line:168	language:Markdown	chapter:Coding Interview University
+How to use it	translations/README-tw.md	/^## How to use it$/;"	s	line:186	language:Markdown	chapter:Coding Interview University
+Hãy nghĩ đến những thứ bạn sẽ được hỏi	translations/README-vi.md	/^## Hãy nghĩ đến những thứ bạn sẽ được hỏi$/;"	s	line:1435	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Học thêm	translations/README-vi.md	/^## Học thêm$/;"	s	line:1506	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+If you have time	translations/README-hi.md	/^- [ ] [Algorithms and Programming: Problems and Solutions](http:\/\/www.amazon.com\/Algorithms-P/;"	S	line:1347	language:Markdown	section:कोडिंग साक्षात्कार विश्वविद्यालय""Books
+If you have tons of extra time:	README.md	/^### If you have tons of extra time:$/;"	S	line:311	language:Markdown	section:Coding Interview University""Book List
+Ilmu Prasyarat	translations/README-id.md	/^## Ilmu Prasyarat$/;"	s	line:498	language:Markdown	chapter:Coding Interview University
+Información adicional	translations/README-es.md	/^        - remove(key)$/;"	s	line:627	language:Markdown	chapter:Coding Interview University
+Informacje o materiałach wideo	translations/README-pl.md	/^## Informacje o materiałach wideo$/;"	s	line:224	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Informatikkurse	translations/README-de.md	/^## Informatikkurse$/;"	s	line:2050	language:Markdown	chapter:Coding Interview University
+Inhaltsverzeichnis	translations/README-de.md	/^## Inhaltsverzeichnis$/;"	s	line:67	language:Markdown	chapter:Coding Interview University
+Interview Prep	README.md	/^### Interview Prep$/;"	S	line:302	language:Markdown	section:Coding Interview University""Book List
+Interview Prep	translations/README-fr.md	/^### Interview Prep$/;"	S	line:317	language:Markdown	section:Coding Interview University""Book List
+Interview Prep	translations/README-he.md	/^### Interview Prep$/;"	S	line:311	language:Markdown	section:Book List
+Interview Prep	translations/README-id.md	/^### Interview Prep$/;"	S	line:283	language:Markdown	section:Coding Interview University""Daftar Buku
+Interview Prep	translations/README-uk.md	/^### Interview Prep$/;"	S	line:249	language:Markdown	section:Coding Interview University""Book List
+Interview Process & General Interview Prep	README.md	/^## Interview Process & General Interview Prep$/;"	s	line:248	language:Markdown	chapter:Coding Interview University
+Interview Process & General Interview Prep	translations/README-fr.md	/^## Interview Process & General Interview Prep$/;"	s	line:254	language:Markdown	chapter:Coding Interview University
+Interview Process & General Interview Prep	translations/README-uk.md	/^## Interview Process & General Interview Prep$/;"	s	line:204	language:Markdown	chapter:Coding Interview University
+Interview Process & General Interview Prep(面試過程&面試準備)	translations/README-tw.md	/^## Interview Process & General Interview Prep(面試過程&面試準備)$/;"	s	line:228	language:Markdown	chapter:Coding Interview University
+Jak tego używać	translations/README-pl.md	/^## Jak tego używać$/;"	s	line:188	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Jangan merasa anda kurang pintar	translations/README-id.md	/^## Jangan merasa anda kurang pintar$/;"	s	line:190	language:Markdown	chapter:Coding Interview University
+Java	README.md	/^### Java$/;"	S	line:344	language:Markdown	section:Coding Interview University""Book List
+Java	translations/README-ar.md	/^### Java$/;"	S	line:388	language:Markdown	section:الإعداد لجوجل""قائمة الكتب
+Java	translations/README-de.md	/^### Java$/;"	S	line:378	language:Markdown	section:Coding Interview University""Literaturliste
+Java	translations/README-es.md	/^Si tiene una mejor recomendación para C++ por favor hágamelo saber. Busco fuentes comprensivas/;"	S	line:320	language:Markdown	section:Coding Interview University""Lista de libros
+Java	translations/README-fr.md	/^### Java$/;"	S	line:376	language:Markdown	section:Coding Interview University""Book List
+Java	translations/README-he.md	/^### Java$/;"	S	line:370	language:Markdown	section:Book List
+Java	translations/README-id.md	/^### Java$/;"	S	line:342	language:Markdown	section:Coding Interview University""Daftar Buku
+Java	translations/README-ko.md	/^### Java$/;"	S	line:336	language:Markdown	section:코딩 인터뷰 대학(Coding Interview University)""도서 목록
+Java	translations/README-pl.md	/^### Java$/;"	S	line:325	language:Markdown	section:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University""Lista książek
+Java	translations/README-ptbr.md	/^### Java$/;"	S	line:330	language:Markdown	section:Universidade de Entrevista de Programação""Lista de Livros
+Java	translations/README-th.md	/^### Java$/;"	S	line:306	language:Markdown	section:Coding Interview University""รายชื่อหนังสือ
+Java	translations/README-tw.md	/^## Java$/;"	s	line:319	language:Markdown	chapter:Coding Interview University
+Java	translations/README-uk.md	/^### Java$/;"	S	line:304	language:Markdown	section:Coding Interview University""Book List
+Java	translations/README-vi.md	/^### Java$/;"	S	line:341	language:Markdown	section:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)""Danh mục sách
+Jeśli masz mnóstwo dodatkowego czasu:	translations/README-pl.md	/^### Jeśli masz mnóstwo dodatkowego czasu:$/;"	S	line:295	language:Markdown	section:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University""Lista książek
+Khi bạn tiến gần đến kỳ phỏng vấn	translations/README-vi.md	/^## Khi bạn tiến gần đến kỳ phỏng vấn$/;"	s	line:1422	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Khi bạn được nhận việc	translations/README-vi.md	/^## Khi bạn được nhận việc$/;"	s	line:1467	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Kiến thức bổ sung	translations/README-vi.md	/^## Kiến thức bổ sung$/;"	s	line:917	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Kiến thức ngoài	translations/README-vi.md	/^## Kiến thức ngoài$/;"	s	line:655	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Kiến thức tiên quyết	translations/README-vi.md	/^## Kiến thức tiên quyết$/;"	s	line:496	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Kiến trúc máy tính	translations/README-vi.md	/^### Kiến trúc máy tính$/;"	S	line:297	language:Markdown	section:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)""Danh mục sách
+Kompleksitas Algoritma / Big-O / Analisis Asimptotik	translations/README-id.md	/^## Kompleksitas Algoritma \/ Big-O \/ Analisis Asimptotik$/;"	s	line:511	language:Markdown	chapter:Coding Interview University
+Konkretny język	translations/README-pl.md	/^### Konkretny język$/;"	S	line:305	language:Markdown	section:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University""Lista książek
+Końcowa rozmowa rekrutacyjna	translations/README-pl.md	/^## Końcowa rozmowa rekrutacyjna$/;"	s	line:1222	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Kursy Computer Science	translations/README-pl.md	/^## Kursy Computer Science$/;"	s	line:1928	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Kế hoạch hàng ngày	translations/README-vi.md	/^## Kế hoạch hàng ngày$/;"	s	line:463	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+LICENCJA	translations/README-pl.md	/^## LICENCJA$/;"	s	line:1966	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+LICENSE	README.md	/^## LICENSE$/;"	s	line:1990	language:Markdown	chapter:Coding Interview University
+LICENSE	translations/README-tw.md	/^## LICENSE$/;"	s	line:1889	language:Markdown	chapter:Coding Interview University
+Language Specific	README.md	/^### Language Specific$/;"	S	line:321	language:Markdown	section:Coding Interview University""Book List
+Language Specific	translations/README-fr.md	/^### Language Specific$/;"	S	line:358	language:Markdown	section:Coding Interview University""Book List
+Language Specific	translations/README-he.md	/^### Language Specific$/;"	S	line:352	language:Markdown	section:Book List
+Language Specific	translations/README-id.md	/^### Language Specific$/;"	S	line:324	language:Markdown	section:Coding Interview University""Daftar Buku
+Language Specific	translations/README-uk.md	/^### Language Specific$/;"	S	line:286	language:Markdown	section:Coding Interview University""Book List
+Libros Opcionales	translations/README-es.md	/^$/;"	S	line:343	language:Markdown	section:Coding Interview University""Lista de libros
+Libros adicionales	translations/README-es.md	/^---$/;"	s	line:1455	language:Markdown	chapter:Coding Interview University
+Lista de Livros	translations/README-ptbr.md	/^## Lista de Livros$/;"	s	line:269	language:Markdown	chapter:Universidade de Entrevista de Programação
+Lista de libros	translations/README-es.md	/^Verás algunos materiales de aprendizaje de C, C++ y Python abajo, porque estoy aprendiendo. Hay/;"	s	line:260	language:Markdown	chapter:Coding Interview University
+Lista książek	translations/README-pl.md	/^## Lista książek$/;"	s	line:282	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Literatura	translations/README-pl.md	/^## Literatura$/;"	s	line:1933	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Literaturliste	translations/README-de.md	/^## Literaturliste$/;"	s	line:306	language:Markdown	chapter:Coding Interview University
+Livros Adicionais	translations/README-ptbr.md	/^## Livros Adicionais$/;"	s	line:1486	language:Markdown	chapter:Universidade de Entrevista de Programação
+Livros Opcionais	translations/README-ptbr.md	/^### Livros Opcionais$/;"	S	line:353	language:Markdown	section:Universidade de Entrevista de Programação""Lista de Livros
+Lizenz	translations/README-de.md	/^## Lizenz$/;"	s	line:2092	language:Markdown	chapter:Coding Interview University
+Lo que no verá cubierto	translations/README-es.md	/^Hay muchas distracciones le pueden quitar tiempo valioso. Enfocarse y concentrarse es difícil.$/;"	s	line:428	language:Markdown	chapter:Coding Interview University
+Lý lịch (Resume) của bạn	translations/README-vi.md	/^## Lý lịch (Resume) của bạn$/;"	s	line:1429	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Mais Conhecimento	translations/README-ptbr.md	/^## Mais Conhecimento$/;"	s	line:642	language:Markdown	chapter:Universidade de Entrevista de Programação
+Masuk ke Mode Googley	translations/README-id.md	/^## Masuk ke Mode Googley$/;"	s	line:184	language:Markdown	chapter:Coding Interview University
+Mehr	translations/README-de.md	/^## Mehr$/;"	s	line:682	language:Markdown	chapter:Coding Interview University
+Mengapa menggunakan ini?	translations/README-id.md	/^## Mengapa menggunakan ini?$/;"	s	line:146	language:Markdown	chapter:Coding Interview University
+Mentioned in Google Coaching	translations/README-hi.md	/^## Books$/;"	S	line:1309	language:Markdown	section:कोडिंग साक्षात्कार विश्वविद्यालय""Books
+More Knowledge	README.md	/^## More Knowledge$/;"	s	line:632	language:Markdown	chapter:Coding Interview University
+More Knowledge	translations/README-ar.md	/^## More Knowledge$/;"	s	line:709	language:Markdown	chapter:الإعداد لجوجل
+More Knowledge	translations/README-fr.md	/^## More Knowledge$/;"	s	line:695	language:Markdown	chapter:Coding Interview University
+More Knowledge	translations/README-he.md	/^## More Knowledge$/;"	s	line:689	language:Markdown
+More Knowledge	translations/README-hi.md	/^        - remove(key)$/;"	s	line:531	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+More Knowledge	translations/README-id.md	/^## More Knowledge$/;"	s	line:661	language:Markdown	chapter:Coding Interview University
+More Knowledge	translations/README-th.md	/^## More Knowledge$/;"	s	line:620	language:Markdown	chapter:Coding Interview University
+More Knowledge	translations/README-uk.md	/^## More Knowledge$/;"	s	line:618	language:Markdown	chapter:Coding Interview University
+Más información adicional	translations/README-es.md	/^Obtendrá más práctica de grafos en el libro de Skiena (vea Sección de libros debajo) y en lo/;"	s	line:878	language:Markdown	chapter:Coding Interview University
+Mục lục	translations/README-vi.md	/^## Mục lục$/;"	s	line:49	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Ne vous sentez pas stupide	translations/README-fr.md	/^## Ne vous sentez pas stupide$/;"	s	line:223	language:Markdown	chapter:Coding Interview University
+Những phần không được đề cập	translations/README-vi.md	/^## Những phần không được đề cập$/;"	s	line:453	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Nie uważaj, że jesteś niewystarczająco mądry	translations/README-pl.md	/^## Nie uważaj, że jesteś niewystarczająco mądry$/;"	s	line:218	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+No sienta que no es lo suficientemente listo	translations/README-es.md	/^[Más acerca de los temas de Github para markdown](https:\/\/guides.github.com\/features\/master/;"	s	line:206	language:Markdown	chapter:Coding Interview University
+Noch mehr	translations/README-de.md	/^## Noch mehr$/;"	s	line:955	language:Markdown	chapter:Coding Interview University
+Não ache que você não é inteligente o suficiente	translations/README-ptbr.md	/^## Não ache que você não é inteligente o suficiente$/;"	s	line:214	language:Markdown	chapter:Universidade de Entrevista de Programação
+O Plano Diário	translations/README-ptbr.md	/^## O Plano Diário$/;"	s	line:448	language:Markdown	chapter:Universidade de Entrevista de Programação
+O que você não verá	translations/README-ptbr.md	/^## O que você não verá $/;"	s	line:440	language:Markdown	chapter:Universidade de Entrevista de Programação
+O que é isso?	translations/README-ptbr.md	/^## O que é isso?$/;"	s	line:43	language:Markdown	chapter:Universidade de Entrevista de Programação
+Once You've Got The Job	README.md	/^## Once You've Got The Job$/;"	s	line:1389	language:Markdown	chapter:Coding Interview University
+Once You've Got The Job	translations/README-ar.md	/^## Once You've Got The Job$/;"	s	line:1474	language:Markdown	chapter:الإعداد لجوجل
+Once You've Got The Job	translations/README-fr.md	/^## Once You've Got The Job$/;"	s	line:1431	language:Markdown	chapter:Coding Interview University
+Once You've Got The Job	translations/README-he.md	/^## Once You've Got The Job$/;"	s	line:1426	language:Markdown
+Once You've Got The Job	translations/README-id.md	/^## Once You've Got The Job$/;"	s	line:1401	language:Markdown	chapter:Coding Interview University
+Once You've Got The Job	translations/README-th.md	/^## Once You've Got The Job$/;"	s	line:1433	language:Markdown	chapter:Coding Interview University
+Once You've Got The Job	translations/README-uk.md	/^## Once You've Got The Job$/;"	s	line:1434	language:Markdown	chapter:Coding Interview University
+Once you're closer to the interview	README.md	/^## Once you're closer to the interview$/;"	s	line:1345	language:Markdown	chapter:Coding Interview University
+Once you're closer to the interview	translations/README-ar.md	/^## Once you're closer to the interview$/;"	s	line:1429	language:Markdown	chapter:الإعداد لجوجل
+Once you're closer to the interview	translations/README-fr.md	/^## Once you're closer to the interview$/;"	s	line:1386	language:Markdown	chapter:Coding Interview University
+Once you're closer to the interview	translations/README-he.md	/^## Once you're closer to the interview$/;"	s	line:1381	language:Markdown
+Once you're closer to the interview	translations/README-hi.md	/^    - [प्रोग्रामिंग लैंग्वेज में सुधार क/;"	s	line:1380	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+Once you're closer to the interview	translations/README-id.md	/^## Once you're closer to the interview$/;"	s	line:1356	language:Markdown	chapter:Coding Interview University
+Once you're closer to the interview	translations/README-th.md	/^## Once you're closer to the interview$/;"	s	line:1389	language:Markdown	chapter:Coding Interview University
+Once you're closer to the interview	translations/README-uk.md	/^## Once you're closer to the interview$/;"	s	line:1390	language:Markdown	chapter:Coding Interview University
+Optional Books	translations/README-ar.md	/^### Optional Books$/;"	S	line:411	language:Markdown	section:الإعداد لجوجل""قائمة الكتب
+Optional Books	translations/README-fr.md	/^### Optional Books$/;"	S	line:399	language:Markdown	section:Coding Interview University""Book List
+Optional Books	translations/README-he.md	/^### Optional Books$/;"	S	line:393	language:Markdown	section:Book List
+Optional Books	translations/README-id.md	/^### Optional Books$/;"	S	line:365	language:Markdown	section:Coding Interview University""Daftar Buku
+Optional Books	translations/README-uk.md	/^### Optional Books$/;"	S	line:327	language:Markdown	section:Coding Interview University""Book List
+Ordenamientos	translations/README-es.md	/^            - Nota: Usar una cola mínima reduciría operaciones, pero duplicaría el espacio ne/;"	s	line:745	language:Markdown	chapter:Coding Interview University
+Ordenação	translations/README-ptbr.md	/^## Ordenação$/;"	s	line:762	language:Markdown	chapter:Universidade de Entrevista de Programação
+Paper (Wissenschaftliche Veröffentlichtungen)	translations/README-de.md	/^## Paper (Wissenschaftliche Veröffentlichtungen)$/;"	s	line:2055	language:Markdown	chapter:Coding Interview University
+Papers	README.md	/^## Papers$/;"	s	line:1957	language:Markdown	chapter:Coding Interview University
+Papers	translations/README-ko.md	/^## Papers$/;"	s	line:1948	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+Pensando en cuando llegue la entrevista	translations/README-es.md	/^$/;"	s	line:1404	language:Markdown	chapter:Coding Interview University
+Pick One Language for the Interview	README.md	/^## Pick One Language for the Interview$/;"	s	line:273	language:Markdown	chapter:Coding Interview University
+Pick One Language for the Interview	translations/README-fr.md	/^## Pick One Language for the Interview$/;"	s	line:287	language:Markdown	chapter:Coding Interview University
+Pick One Language for the Interview	translations/README-he.md	/^## Pick One Language for the Interview$/;"	s	line:281	language:Markdown
+Pick One Language for the Interview	translations/README-uk.md	/^## Pick One Language for the Interview$/;"	s	line:222	language:Markdown	chapter:Coding Interview University
+Pilih Satu Bahasa Pemrograman untuk Wawancara	translations/README-id.md	/^## Pilih Satu Bahasa Pemrograman untuk Wawancara$/;"	s	line:253	language:Markdown	chapter:Coding Interview University
+Plan dzienny	translations/README-pl.md	/^## Plan dzienny$/;"	s	line:413	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Por que usar?	translations/README-ptbr.md	/^## Por que usar?$/;"	s	line:178	language:Markdown	chapter:Universidade de Entrevista de Programação
+Practica de preguntas de codificación	translations/README-es.md	/^---$/;"	s	line:1326	language:Markdown	chapter:Coding Interview University
+Praktyka kodowania	translations/README-pl.md	/^## Praktyka kodowania$/;"	s	line:1236	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Preguntas para el entrevistador	translations/README-es.md	/^- ¿Qué habría hecho mejor en [x trabajo \/ y proyecto]?$/;"	s	line:1422	language:Markdown	chapter:Coding Interview University
+Preparación para la entrevista	translations/README-es.md	/^Ésta es una lista más corta que la que yo usé. Está abreviada para ahorrarle tiempo.$/;"	S	line:264	language:Markdown	section:Coding Interview University""Lista de libros
+Preparação para a Entrevista	translations/README-ptbr.md	/^### Preparação para a Entrevista$/;"	S	line:273	language:Markdown	section:Universidade de Entrevista de Programação""Lista de Livros
+Prepárese para la entrevista	translations/README-es.md	/^$/;"	s	line:220	language:Markdown	chapter:Coding Interview University
+Prerequisite Knowledge	README.md	/^## Prerequisite Knowledge$/;"	s	line:466	language:Markdown	chapter:Coding Interview University
+Prerequisite Knowledge	translations/README-ar.md	/^## Prerequisite Knowledge$/;"	s	line:546	language:Markdown	chapter:الإعداد لجوجل
+Prerequisite Knowledge	translations/README-fr.md	/^## Prerequisite Knowledge$/;"	s	line:532	language:Markdown	chapter:Coding Interview University
+Prerequisite Knowledge	translations/README-he.md	/^## Prerequisite Knowledge$/;"	s	line:526	language:Markdown
+Prerequisite Knowledge	translations/README-uk.md	/^## Prerequisite Knowledge$/;"	s	line:455	language:Markdown	chapter:Coding Interview University
+Proces rozmowy i ogólne przygotowanie do rekrutacji	translations/README-pl.md	/^## Proces rozmowy i ogólne przygotowanie do rekrutacji$/;"	s	line:233	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Processo de Entrevista e Preparação Geral para a Entrevista	translations/README-ptbr.md	/^## Processo de Entrevista e Preparação Geral para a Entrevista$/;"	s	line:228	language:Markdown	chapter:Universidade de Entrevista de Programação
+Programmieraufgaben/Wettbewerbe	translations/README-de.md	/^## Programmieraufgaben\/Wettbewerbe$/;"	s	line:1411	language:Markdown	chapter:Coding Interview University
+Programming Language Resources	programming-language-resources.md	/^## Programming Language Resources$/;"	s	line:1	language:Markdown
+Projektowanie systemu, skalowalność, przetwarzanie danych	translations/README-pl.md	/^## Projektowanie systemu, skalowalność, przetwarzanie danych$/;"	s	line:1093	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Proses Interview dan Preparasi Wawancara Secara Umum	translations/README-id.md	/^## Proses Interview dan Preparasi Wawancara Secara Umum$/;"	s	line:220	language:Markdown	chapter:Coding Interview University
+Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University	translations/README-pl.md	/^# Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University$/;"	c	line:1	language:Markdown
+Przygotowanie do rozmowy rekrutacyjnej	translations/README-pl.md	/^### Przygotowanie do rozmowy rekrutacyjnej$/;"	S	line:286	language:Markdown	section:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University""Lista książek
+Prática com Questões de Programação	translations/README-ptbr.md	/^## Prática com Questões de Programação$/;"	s	line:1348	language:Markdown	chapter:Universidade de Entrevista de Programação
+Pytania dla rekrutera	translations/README-pl.md	/^## Pytania dla rekrutera$/;"	s	line:1350	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Python	README.md	/^### Python$/;"	S	line:358	language:Markdown	section:Coding Interview University""Book List
+Python	translations/README-ar.md	/^### Python$/;"	S	line:402	language:Markdown	section:الإعداد لجوجل""قائمة الكتب
+Python	translations/README-de.md	/^### Python$/;"	S	line:397	language:Markdown	section:Coding Interview University""Literaturliste
+Python	translations/README-es.md	/^    - Vea mi reporte de la versión de Python debajo. Este libro abarca los mismos tópicos.$/;"	S	line:334	language:Markdown	section:Coding Interview University""Lista de libros
+Python	translations/README-fr.md	/^### Python$/;"	S	line:390	language:Markdown	section:Coding Interview University""Book List
+Python	translations/README-he.md	/^### Python$/;"	S	line:384	language:Markdown	section:Book List
+Python	translations/README-hi.md	/^    - नीचे दिए गए अजगर संस्करण पर मेरी पु/;"	S	line:246	language:Markdown	section:कोडिंग साक्षात्कार विश्वविद्यालय""पुस्तक सूची
+Python	translations/README-id.md	/^### Python$/;"	S	line:356	language:Markdown	section:Coding Interview University""Daftar Buku
+Python	translations/README-ko.md	/^### Python$/;"	S	line:350	language:Markdown	section:코딩 인터뷰 대학(Coding Interview University)""도서 목록
+Python	translations/README-pl.md	/^### Python$/;"	S	line:339	language:Markdown	section:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University""Lista książek
+Python	translations/README-ptbr.md	/^### Python$/;"	S	line:344	language:Markdown	section:Universidade de Entrevista de Programação""Lista de Livros
+Python	translations/README-th.md	/^### Python$/;"	S	line:320	language:Markdown	section:Coding Interview University""รายชื่อหนังสือ
+Python	translations/README-tw.md	/^### Python$/;"	S	line:333	language:Markdown	section:Coding Interview University""Java
+Python	translations/README-uk.md	/^### Python$/;"	S	line:318	language:Markdown	section:Coding Interview University""Book List
+Python	translations/README-vi.md	/^### Python$/;"	S	line:356	language:Markdown	section:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)""Danh mục sách
+Quando Você Conseguir O Trabalho	translations/README-ptbr.md	/^## Quando Você Conseguir O Trabalho$/;"	s	line:1464	language:Markdown	chapter:Universidade de Entrevista de Programação
+Quando a entrevista estiver se aproximando	translations/README-ptbr.md	/^## Quando a entrevista estiver se aproximando$/;"	s	line:1421	language:Markdown	chapter:Universidade de Entrevista de Programação
+Quy trình phỏng vấn & các bước chuẩn bị tổng quát	translations/README-vi.md	/^## Quy trình phỏng vấn & các bước chuẩn bị tổng quát$/;"	s	line:231	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Rechnerarchitektur	translations/README-de.md	/^### Rechnerarchitektur$/;"	S	line:331	language:Markdown	section:Coding Interview University""Literaturliste
+Rencana Harian	translations/README-id.md	/^## Rencana Harian$/;"	s	line:468	language:Markdown	chapter:Coding Interview University
+Revisión final	translations/README-es.md	/^---$/;"	s	line:1288	language:Markdown	chapter:Coding Interview University
+Revisão Final	translations/README-ptbr.md	/^## Revisão Final$/;"	s	line:1310	language:Markdown	chapter:Universidade de Entrevista de Programação
+Ringkasan apa ini?	translations/README-id.md	/^## Ringkasan apa ini?$/;"	s	line:5	language:Markdown	chapter:Coding Interview University
+Sebelum Anda Mulai	translations/README-id.md	/^## Sebelum Anda Mulai$/;"	s	line:412	language:Markdown	chapter:Coding Interview University
+Serie wideo	translations/README-pl.md	/^## Serie wideo$/;"	s	line:1864	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Series de videos	translations/README-es.md	/^        - [ ] [lecture begins at 23:50 (video)](https:\/\/www.youtube.com\/watch?v=TvqIGu9Iupw&l/;"	s	line:1848	language:Markdown	chapter:Coding Interview University
+Seu Currículo	translations/README-ptbr.md	/^## Seu Currículo$/;"	s	line:1427	language:Markdown	chapter:Universidade de Entrevista de Programação
+Si vous souhaitez devenir ingénieur de fiabilité, ou ingénieur systèmes, suivez plus de cours de la liste optionelle (Réseau, sécurité)	translations/README-fr.md	/^Si vous souhaitez devenir ingénieur de fiabilité, ou ingénieur systèmes, suivez plus de cour/;"	s	line:24	language:Markdown	chapter:Coding Interview University
+Sobre os recursos em vídeo	translations/README-ptbr.md	/^## Sobre os recursos em vídeo$/;"	s	line:219	language:Markdown	chapter:Universidade de Entrevista de Programação
+Sortierung	translations/README-de.md	/^## Sortierung$/;"	s	line:810	language:Markdown	chapter:Coding Interview University
+Sorting	README.md	/^## Sorting$/;"	s	line:748	language:Markdown	chapter:Coding Interview University
+Sorting	translations/README-ar.md	/^## Sorting$/;"	s	line:829	language:Markdown	chapter:الإعداد لجوجل
+Sorting	translations/README-fr.md	/^## Sorting$/;"	s	line:815	language:Markdown	chapter:Coding Interview University
+Sorting	translations/README-he.md	/^## Sorting$/;"	s	line:809	language:Markdown
+Sorting	translations/README-hi.md	/^    - [ ] [K-Ary Tree](https:\/\/en.wikipedia.org\/wiki\/K-ary_tree)$/;"	s	line:762	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+Sorting	translations/README-id.md	/^## Sorting$/;"	s	line:781	language:Markdown	chapter:Coding Interview University
+Sorting	translations/README-th.md	/^## Sorting$/;"	s	line:740	language:Markdown	chapter:Coding Interview University
+Sorting	translations/README-uk.md	/^## Sorting$/;"	s	line:738	language:Markdown	chapter:Coding Interview University
+Sortowanie	translations/README-pl.md	/^## Sortowanie$/;"	s	line:725	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Sorts:	translations/README-hi.md	/^    - [विडियो](https:\/\/www.youtube.com\/channel\/UCzDJwLWoYCUQowF_nG3m5OQ)$/;"	t	line:1302	language:Markdown	section:कोडिंग साक्षात्कार विश्वविद्यालय""Final Review
+Spis treści	translations/README-pl.md	/^## Spis treści$/;"	s	line:61	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Sprachspezifisch	translations/README-de.md	/^### Sprachspezifisch$/;"	S	line:353	language:Markdown	section:Coding Interview University""Literaturliste
+Stell Fragen an den Interviewer	translations/README-de.md	/^## Stell Fragen an den Interviewer$/;"	s	line:1479	language:Markdown	chapter:Coding Interview University
+Struktur Data	translations/README-id.md	/^## Struktur Data$/;"	s	line:535	language:Markdown	chapter:Coding Interview University
+Struktury danych	translations/README-pl.md	/^## Struktury danych$/;"	s	line:482	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Su CV	translations/README-es.md	/^    - [Cracking the Coding Interview - Fullstack Speaker Series](https:\/\/www.youtube.com\/watc/;"	s	line:1399	language:Markdown	chapter:Coding Interview University
+System Design, Scalability, Data Handling	README.md	/^## System Design, Scalability, Data Handling$/;"	s	line:1113	language:Markdown	chapter:Coding Interview University
+System Design, Scalability, Data Handling	translations/README-ar.md	/^## System Design, Scalability, Data Handling$/;"	s	line:1201	language:Markdown	chapter:الإعداد لجوجل
+System Design, Scalability, Data Handling	translations/README-fr.md	/^## System Design, Scalability, Data Handling$/;"	s	line:1157	language:Markdown	chapter:Coding Interview University
+System Design, Scalability, Data Handling	translations/README-he.md	/^## System Design, Scalability, Data Handling$/;"	s	line:1151	language:Markdown
+System Design, Scalability, Data Handling	translations/README-id.md	/^## System Design, Scalability, Data Handling$/;"	s	line:1128	language:Markdown	chapter:Coding Interview University
+System Design, Scalability, Data Handling	translations/README-th.md	/^## System Design, Scalability, Data Handling$/;"	s	line:1157	language:Markdown	chapter:Coding Interview University
+System Design, Scalability, Data Handling	translations/README-uk.md	/^## System Design, Scalability, Data Handling$/;"	s	line:1158	language:Markdown	chapter:Coding Interview University
+Systementwurf, Skalierbarkeit, Datenverarbeitung	translations/README-de.md	/^## Systementwurf, Skalierbarkeit, Datenverarbeitung$/;"	s	line:1212	language:Markdown	chapter:Coding Interview University
+Sách bổ sung	translations/README-vi.md	/^## Sách bổ sung$/;"	s	line:1490	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Sách tùy chọn	translations/README-vi.md	/^### Sách tùy chọn$/;"	S	line:365	language:Markdown	section:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)""Danh mục sách
+Séries de Vídeos	translations/README-ptbr.md	/^## Séries de Vídeos$/;"	s	line:1900	language:Markdown	chapter:Universidade de Entrevista de Programação
+Sắp xếp	translations/README-vi.md	/^## Sắp xếp$/;"	s	line:779	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Sử dụng tài liệu này như thế nào?	translations/README-vi.md	/^## Sử dụng tài liệu này như thế nào?$/;"	s	line:179	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Tabla de contenido	translations/README-es.md	/^---$/;"	s	line:50	language:Markdown	chapter:Coding Interview University
+Table of Contents	README.md	/^## Table of Contents$/;"	s	line:66	language:Markdown	chapter:Coding Interview University
+Table of Contents	translations/README-fr.md	/^## Table of Contents$/;"	s	line:27	language:Markdown	chapter:Coding Interview University
+Tenha questões para o entrevistador	translations/README-ptbr.md	/^## Tenha questões para o entrevistador$/;"	s	line:1450	language:Markdown	chapter:Universidade de Entrevista de Programação
+Tentang Google	translations/README-id.md	/^## Tentang Google$/;"	s	line:195	language:Markdown	chapter:Coding Interview University
+Tentang Sumber Video	translations/README-id.md	/^## Tentang Sumber Video$/;"	s	line:212	language:Markdown	chapter:Coding Interview University
+The Daily Plan	README.md	/^## The Daily Plan$/;"	s	line:436	language:Markdown	chapter:Coding Interview University
+The Daily Plan	translations/README-ar.md	/^## The Daily Plan$/;"	s	line:516	language:Markdown	chapter:الإعداد لجوجل
+The Daily Plan	translations/README-fr.md	/^## The Daily Plan$/;"	s	line:502	language:Markdown	chapter:Coding Interview University
+The Daily Plan	translations/README-he.md	/^## The Daily Plan$/;"	s	line:496	language:Markdown
+The Daily Plan	translations/README-uk.md	/^## The Daily Plan$/;"	s	line:425	language:Markdown	chapter:Coding Interview University
+Thiết kế hệ thống, Khả năng mở rộng, Xử lý dữ liệu	translations/README-vi.md	/^## Thiết kế hệ thống, Khả năng mở rộng, Xử lý dữ liệu$/;"	s	line:1196	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Thực hành các câu hỏi về lập trình	translations/README-vi.md	/^## Thực hành các câu hỏi về lập trình$/;"	s	line:1360	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Trees	README.md	/^## Trees$/;"	s	line:669	language:Markdown	chapter:Coding Interview University
+Trees	translations/README-ar.md	/^## Trees$/;"	s	line:746	language:Markdown	chapter:الإعداد لجوجل
+Trees	translations/README-fr.md	/^## Trees$/;"	s	line:732	language:Markdown	chapter:Coding Interview University
+Trees	translations/README-he.md	/^## Trees$/;"	s	line:726	language:Markdown
+Trees	translations/README-hi.md	/^        - [Absolute Integer](http:\/\/bits.stephan-brumme.com\/absInteger.html)$/;"	s	line:575	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+Trees	translations/README-id.md	/^## Trees$/;"	s	line:698	language:Markdown	chapter:Coding Interview University
+Trees	translations/README-th.md	/^## Trees$/;"	s	line:657	language:Markdown	chapter:Coding Interview University
+Trees	translations/README-uk.md	/^## Trees$/;"	s	line:655	language:Markdown	chapter:Coding Interview University
+Trees (Bäume)	translations/README-de.md	/^## Trees (Bäume)$/;"	s	line:724	language:Markdown	chapter:Coding Interview University
+Trước khi bắt đầu	translations/README-vi.md	/^## Trước khi bắt đầu$/;"	s	line:408	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Twoje CV	translations/README-pl.md	/^## Twoje CV$/;"	s	line:1327	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Tổng kết	translations/README-vi.md	/^## Tổng kết$/;"	s	line:1321	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Từng ngôn ngữ riêng biệt	translations/README-vi.md	/^### Từng ngôn ngữ riêng biệt$/;"	S	line:321	language:Markdown	section:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)""Danh mục sách
+Tự ôn tập phỏng vấn về lập trình (Coding Interview University)	translations/README-vi.md	/^# Tự ôn tập phỏng vấn về lập trình (Coding Interview University)$/;"	c	line:1	language:Markdown
+Una vez cerca de la entrevista	translations/README-es.md	/^- [Refdash: Mock interviews](https:\/\/refdash.com\/)$/;"	s	line:1394	language:Markdown	chapter:Coding Interview University
+Universidade de Entrevista de Programação	translations/README-ptbr.md	/^# Universidade de Entrevista de Programação$/;"	c	line:1	language:Markdown
+Video Series	README.md	/^## Video Series$/;"	s	line:1888	language:Markdown	chapter:Coding Interview University
+Video Series	translations/README-ar.md	/^## Video Series$/;"	s	line:1964	language:Markdown	chapter:الإعداد لجوجل
+Video Series	translations/README-fr.md	/^## Video Series$/;"	s	line:1946	language:Markdown	chapter:Coding Interview University
+Video Series	translations/README-he.md	/^## Video Series$/;"	s	line:1941	language:Markdown
+Video Series	translations/README-hi.md	/^- [ ] [Simonson: Approximation Algorithms (विडियो)](https:\/\/www.youtube.com\/watch/;"	s	line:1656	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+Video Series	translations/README-id.md	/^## Video Series$/;"	s	line:1916	language:Markdown	chapter:Coding Interview University
+Video Series	translations/README-ko.md	/^## Video Series$/;"	s	line:1874	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+Video Series	translations/README-th.md	/^## Video Series$/;"	s	line:1870	language:Markdown	chapter:Coding Interview University
+Video Series	translations/README-uk.md	/^## Video Series$/;"	s	line:1871	language:Markdown	chapter:Coding Interview University
+Videoreihen	translations/README-de.md	/^## Videoreihen$/;"	s	line:1981	language:Markdown	chapter:Coding Interview University
+Voraussetzungen	translations/README-de.md	/^## Voraussetzungen$/;"	s	line:500	language:Markdown	chapter:Coding Interview University
+Vorbereitung auf das Vorstellungsgespräch	translations/README-de.md	/^### Vorbereitung auf das Vorstellungsgespräch$/;"	S	line:310	language:Markdown	section:Coding Interview University""Literaturliste
+Vì sao tôi cần tài liệu này?	translations/README-vi.md	/^## Vì sao tôi cần tài liệu này?$/;"	s	line:169	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Về nguồn video	translations/README-vi.md	/^## Về nguồn video$/;"	s	line:221	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Warum solltest du das hier lesen?	translations/README-de.md	/^## Warum solltest du das hier lesen?$/;"	s	line:189	language:Markdown	chapter:Coding Interview University
+Was hier nicht behandelt wird	translations/README-de.md	/^## Was hier nicht behandelt wird$/;"	s	line:462	language:Markdown	chapter:Coding Interview University
+Weitere Details zu ausgewählten Themen	translations/README-de.md	/^## Weitere Details zu ausgewählten Themen$/;"	s	line:1906	language:Markdown	chapter:Coding Interview University
+Wenn das Vorstellungsgespräch bald ansteht	translations/README-de.md	/^## Wenn das Vorstellungsgespräch bald ansteht$/;"	s	line:1450	language:Markdown	chapter:Coding Interview University
+Wenn du den Job bekommst	translations/README-de.md	/^## Wenn du den Job bekommst$/;"	s	line:1493	language:Markdown	chapter:Coding Interview University
+What is it?	README.md	/^## What is it?$/;"	s	line:49	language:Markdown	chapter:Coding Interview University
+What is it?	translations/README-tw.md	/^## What is it?$/;"	s	line:48	language:Markdown	chapter:Coding Interview University
+What you won't see covered	README.md	/^## What you won't see covered$/;"	s	line:428	language:Markdown	chapter:Coding Interview University
+What you won't see covered	translations/README-ar.md	/^## What you won't see covered$/;"	s	line:507	language:Markdown	chapter:الإعداد لجوجل
+What you won't see covered	translations/README-fr.md	/^## What you won't see covered$/;"	s	line:493	language:Markdown	chapter:Coding Interview University
+What you won't see covered	translations/README-he.md	/^## What you won't see covered$/;"	s	line:487	language:Markdown
+What you won't see covered	translations/README-uk.md	/^## What you won't see covered$/;"	s	line:417	language:Markdown	chapter:Coding Interview University
+Why use it?	README.md	/^## Why use it?$/;"	s	line:185	language:Markdown	chapter:Coding Interview University
+Why use it?	translations/README-fr.md	/^## Why use it?$/;"	s	line:150	language:Markdown	chapter:Coding Interview University
+Why use it?	translations/README-tw.md	/^## Why use it?$/;"	s	line:180	language:Markdown	chapter:Coding Interview University
+Wie man dies hier benutzt	translations/README-de.md	/^## Wie man dies hier benutzt$/;"	s	line:202	language:Markdown	chapter:Coding Interview University
+Więcej wiedzy	translations/README-pl.md	/^## Więcej wiedzy$/;"	s	line:609	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Worum es geht	translations/README-de.md	/^## Worum es geht$/;"	s	line:48	language:Markdown	chapter:Coding Interview University
+Wybierz jeden język do rozmowy kwalifikacyjnej	translations/README-pl.md	/^## Wybierz jeden język do rozmowy kwalifikacyjnej$/;"	s	line:257	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Wymagana wiedza	translations/README-pl.md	/^## Wymagana wiedza$/;"	s	line:443	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Wähle eine Sprache für das Vorstellungsgespräch	translations/README-de.md	/^## Wähle eine Sprache für das Vorstellungsgespräch$/;"	s	line:280	language:Markdown	chapter:Coding Interview University
+Your Resume	README.md	/^## Your Resume$/;"	s	line:1351	language:Markdown	chapter:Coding Interview University
+Your Resume	translations/README-ar.md	/^## Your Resume$/;"	s	line:1436	language:Markdown	chapter:الإعداد لجوجل
+Your Resume	translations/README-fr.md	/^## Your Resume$/;"	s	line:1393	language:Markdown	chapter:Coding Interview University
+Your Resume	translations/README-he.md	/^## Your Resume$/;"	s	line:1388	language:Markdown
+Your Resume	translations/README-id.md	/^## Your Resume$/;"	s	line:1363	language:Markdown	chapter:Coding Interview University
+Your Resume	translations/README-th.md	/^## Your Resume$/;"	s	line:1396	language:Markdown	chapter:Coding Interview University
+Your Resume	translations/README-uk.md	/^## Your Resume$/;"	s	line:1397	language:Markdown	chapter:Coding Interview University
+Zadania/wyzwania programistyczne	translations/README-pl.md	/^## Zadania\/wyzwania programistyczne$/;"	s	line:1276	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Zanim zaczniesz	translations/README-pl.md	/^## Zanim zaczniesz$/;"	s	line:348	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Zastanów się, kiedy rozmowa kwalifikacyjna będzie nadchodzić	translations/README-pl.md	/^## Zastanów się, kiedy rozmowa kwalifikacyjna będzie nadchodzić$/;"	s	line:1332	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Znów więcej wiedzy	translations/README-pl.md	/^## Znów więcej wiedzy$/;"	s	line:860	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+Zusätzliche Bücher	translations/README-de.md	/^## Zusätzliche Bücher$/;"	s	line:1516	language:Markdown	chapter:Coding Interview University
+Zusätzliches Wissen	translations/README-de.md	/^## Zusätzliches Wissen$/;"	s	line:1569	language:Markdown	chapter:Coding Interview University
+Złożoność algorytmiczna / Big-O / Analiza asymptotyczna	translations/README-pl.md	/^## Złożoność algorytmiczna \/ Big-O \/ Analiza asymptotyczna$/;"	s	line:459	language:Markdown	chapter:Przygotowanie do rozmowy kwalifikacyjnej w Google - Coding Interview University
+[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试	translations/README-cn.md	/^# [译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试$/;"	c	line:1	language:Markdown
+¿Por qué usarlo?	translations/README-es.md	/^---$/;"	s	line:169	language:Markdown	chapter:Coding Interview University
+¿Qué es esto?	translations/README-es.md	/^    - [Italian](https:\/\/github.com\/jwasham\/coding-interview-university\/issues\/170)$/;"	s	line:35	language:Markdown	chapter:Coding Interview University
+À propos de Google	translations/README-fr.md	/^## À propos de Google$/;"	s	line:228	language:Markdown	chapter:Coding Interview University
+À propos des ressources vidéos	translations/README-fr.md	/^## À propos des ressources vidéos$/;"	s	line:245	language:Markdown	chapter:Coding Interview University
+Árboles	translations/README-es.md	/^        - [Absolute Integer](http:\/\/bits.stephan-brumme.com\/absInteger.html)$/;"	s	line:663	language:Markdown	chapter:Coding Interview University
+Árvores	translations/README-ptbr.md	/^## Árvores$/;"	s	line:679	language:Markdown	chapter:Universidade de Entrevista de Programação
+Índice	translations/README-ptbr.md	/^## Índice$/;"	s	line:60	language:Markdown	chapter:Universidade de Entrevista de Programação
+Über Videoquellen	translations/README-de.md	/^## Über Videoquellen$/;"	s	line:243	language:Markdown	chapter:Coding Interview University
+Übungen zu Programmieraufgaben	translations/README-de.md	/^## Übungen zu Programmieraufgaben$/;"	s	line:1365	language:Markdown	chapter:Coding Interview University
+Đọc thêm về một số đề tài	translations/README-vi.md	/^## Đọc thêm về một số đề tài$/;"	s	line:1820	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Đồ thị	translations/README-vi.md	/^## Đồ thị$/;"	s	line:853	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Độ phức tạp của thuật toán / Big-O / Phân tích tiệm cận	translations/README-vi.md	/^## Độ phức tạp của thuật toán \/ Big-O \/ Phân tích tiệm cận$/;"	s	line:508	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Đừng nghĩ rằng bạn không đủ thông minh	translations/README-vi.md	/^## Đừng nghĩ rằng bạn không đủ thông minh$/;"	s	line:213	language:Markdown	chapter:Tự ôn tập phỏng vấn về lập trình (Coding Interview University)
+Не почувайтесь недостатньо розумними	translations/README-uk.md	/^## Не почувайтесь недостатньо розумними$/;"	s	line:190	language:Markdown	chapter:Coding Interview University
+Таблиця контенту	translations/README-uk.md	/^## Таблиця контенту$/;"	s	line:31	language:Markdown	chapter:Coding Interview University
+Чому це використовувати?	translations/README-uk.md	/^## Чому це використовувати?$/;"	s	line:150	language:Markdown	chapter:Coding Interview University
+Що це?	translations/README-uk.md	/^## Що це?$/;"	s	line:5	language:Markdown	chapter:Coding Interview University
+Як це використовувати	translations/README-uk.md	/^## Як це використовувати$/;"	s	line:161	language:Markdown	chapter:Coding Interview University
+אודות גוגל	translations/README-he.md	/^## אודות גוגל$/;"	s	line:222	language:Markdown
+איך להשתמש בזה	translations/README-he.md	/^## איך להשתמש בזה$/;"	s	line:162	language:Markdown
+אל תרדגישו שאתם לא חכמים מספיק	translations/README-he.md	/^## אל תרדגישו שאתם לא חכמים מספיק$/;"	s	line:217	language:Markdown
+האם קיבלתי את העבודה?	translations/README-he.md	/^## האם קיבלתי את העבודה?$/;"	s	line:197	language:Markdown
+למה להשתמש בזה?	translations/README-he.md	/^## למה להשתמש בזה?$/;"	s	line:142	language:Markdown
+עבור מהנדסי המערכת ומהנדסי האמינות שביניכם, השקיעו יותר בחומר המופיע ב"רשימת הרשות" זוהי רשימת משימות המכילה נושאי רשות עבור מהנדס תוכנה.	translations/README-he.md	/^עבור מהנדסי המערכת ומהנדסי האמינות שביניכם, השקיעו י/;"	s	line:17	language:Markdown
+על מה מדובר כאן?	translations/README-he.md	/^## על מה מדובר כאן?$/;"	s	line:2	language:Markdown
+תהליך הראיון והכנה כללית לראיון	translations/README-he.md	/^## תהליך הראיון והכנה כללית לראיון$/;"	s	line:248	language:Markdown
+תוכן העניינים Table of Contents	translations/README-he.md	/^## תוכן העניינים Table of Contents$/;"	s	line:19	language:Markdown
+תרגילי/אתגרי קידוד	translations/README-he.md	/^## תרגילי\/אתגרי קידוד$/;"	s	line:1358	language:Markdown
+اختر لغة برمجية واحدة للمقابلة البرمجية	translations/README-ar.md	/^## اختر لغة برمجية واحدة للمقابلة البرمجية$/;"	s	line:297	language:Markdown	chapter:الإعداد لجوجل
+الإعداد لجوجل	translations/README-ar.md	/^# الإعداد لجوجل$/;"	c	line:1	language:Markdown
+التحضير للمقابلة الشخصية	translations/README-ar.md	/^### التحضير للمقابلة الشخصية$/;"	S	line:327	language:Markdown	section:الإعداد لجوجل""قائمة الكتب
+الدخول في مزاج جوجلي	translations/README-ar.md	/^## الدخول في مزاج جوجلي$/;"	s	line:198	language:Markdown	chapter:الإعداد لجوجل
+الفهرس	translations/README-ar.md	/^## الفهرس$/;"	s	line:38	language:Markdown	chapter:الإعداد لجوجل
+بنية الحاسوب	translations/README-ar.md	/^### بنية الحاسوب$/;"	S	line:346	language:Markdown	section:الإعداد لجوجل""قائمة الكتب
+تابعني باستمرار	translations/README-ar.md	/^## تابعني باستمرار$/;"	s	line:213	language:Markdown	chapter:الإعداد لجوجل
+تحديد اللغة	translations/README-ar.md	/^### تحديد اللغة$/;"	S	line:370	language:Markdown	section:الإعداد لجوجل""قائمة الكتب
+عن جوجل	translations/README-ar.md	/^## عن جوجل$/;"	s	line:235	language:Markdown	chapter:الإعداد لجوجل
+عن مصادر الفديو	translations/README-ar.md	/^## عن مصادر الفديو$/;"	s	line:252	language:Markdown	chapter:الإعداد لجوجل
+قائمة الكتب	translations/README-ar.md	/^## قائمة الكتب$/;"	s	line:323	language:Markdown	chapter:الإعداد لجوجل
+قبل البدء	translations/README-ar.md	/^## قبل البدء$/;"	s	line:459	language:Markdown	chapter:الإعداد لجوجل
+كيفية استخدامها	translations/README-ar.md	/^## كيفية استخدامها$/;"	s	line:170	language:Markdown	chapter:الإعداد لجوجل
+لماذا استخدمه؟	translations/README-ar.md	/^## لماذا استخدمه؟$/;"	s	line:160	language:Markdown	chapter:الإعداد لجوجل
+ماهذا؟	translations/README-ar.md	/^## ماهذا؟$/;"	s	line:20	language:Markdown	chapter:الإعداد لجوجل
+مراحل المقابلة الشخصية & الإستعداد العام للمقابلة	translations/README-ar.md	/^## مراحل المقابلة الشخصية & الإستعداد العام للمقابلة$/;"	s	line:263	language:Markdown	chapter:الإعداد لجوجل
+هل تشعر أنك لست بالذكاء الكافي	translations/README-ar.md	/^## هل تشعر أنك لست بالذكاء الكافي$/;"	s	line:229	language:Markdown	chapter:الإعداد لجوجل
+هل حصلت على الوظيفة بجوجل؟	translations/README-ar.md	/^## هل حصلت على الوظيفة بجوجل؟$/;"	s	line:205	language:Markdown	chapter:الإعداد لجوجل
+अनुक्रमणिका	translations/README-hi.md	/^---$/;"	s	line:19	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+आपका रिज्यूमे	translations/README-hi.md	/^    - [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https/;"	s	line:1387	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+इंटरव्यू की सोंच	translations/README-hi.md	/^- Great stuff at the back of Cracking The Coding Interview$/;"	s	line:1392	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+इंटरव्यू के लिए एक संगणक भाषा चुने	translations/README-hi.md	/^    - [ ] ['बड़े ४ मैं नौकरी कैसे ले - Amazon, Facebook, Goog/;"	s	line:150	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+इंटरव्यू प्रकिया और साधारण इंटरव्यू तैयारी	translations/README-hi.md	/^    I'd appreciate your help converting the MOOC video links to public sources to replace the on/;"	s	line:138	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+इंटरव्यू प्रेप	translations/README-hi.md	/^यह मैंने जो इस्तेमाल किया था उससे छोट/;"	S	line:177	language:Markdown	section:कोडिंग साक्षात्कार विश्वविद्यालय""पुस्तक सूची
+इंटरव्यूअर के लिए प्रश्न रखे	translations/README-hi.md	/^- [जॉब क्ष \/ प्रोजेक्ट य] में आप क्या सुध/;"	s	line:1410	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+इसका उपयोग क्यों करे?	translations/README-hi.md	/^---$/;"	s	line:109	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+इसका कैसे उपयोग करे?	translations/README-hi.md	/^पर इस अध्ययन योजना का उपयोग करने बाद म/;"	s	line:115	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+इसमे क्या समाविष्ट नहीं हे	translations/README-hi.md	/^ऐसे कई विकर्षण हैं जो कि मूल्यवान समय/;"	s	line:336	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+एल्गोरिथम जटिलता / बिग-ओ / असिम्प्टोोटिक विश्लेषण	translations/README-hi.md	/^    - [ ] [मशीन कोड निर्देश (वीडियो)](https:\/\/www.yout/;"	s	line:385	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+कंप्यूटर आर्किटेक्चर	translations/README-hi.md	/^    - [कम्पेनियन प्रोजेक्ट - पुस्तक में ह/;"	S	line:192	language:Markdown	section:कोडिंग साक्षात्कार विश्वविद्यालय""पुस्तक सूची
+कभी भी आप चालाक नहीं हो ऐसा ना सोचो	translations/README-hi.md	/^[Github-flavored markdown की अधिक जानकारी](https:\/\/guides.github.com/;"	s	line:126	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+कोडिंग साक्षात्कार विश्वविद्यालय	translations/README-hi.md	/^#  कोडिंग साक्षात्कार विश्वविद्यालय$/;"	c	line:1	language:Markdown
+जब आपको नौकरी मिल जाये	translations/README-hi.md	/^---$/;"	s	line:1719	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+जावा	translations/README-hi.md	/^यदि आपके पास सी ++ के लिए बेहतर सिफारिश/;"	S	line:233	language:Markdown	section:कोडिंग साक्षात्कार विश्वविद्यालय""पुस्तक सूची
+डेटा संरचनाएं	translations/README-hi.md	/^$/;"	s	line:406	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+दैनिक योजना	translations/README-hi.md	/^- HTML, CSS, and other front-end technologies$/;"	s	line:344	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+पुस्तक सूची	translations/README-hi.md	/^क्योकि में मैं पढ़ रहा हूँ, आपको कुछ C, C++/;"	s	line:174	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+प्रारंभ करने से पहले	translations/README-hi.md	/^    - बल्कि किसी अन्य पुस्तक या ऑनलाइन क/;"	s	line:292	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+भाषा विशिष्ट	translations/README-hi.md	/^    - एक अमीर, अधिक अप-टू-डेट (2011) के लिए, लेक/;"	S	line:215	language:Markdown	section:कोडिंग साक्षात्कार विश्वविद्यालय""पुस्तक सूची
+यह क्या है?	translations/README-hi.md	/^>आपको शुभकामनाएं!$/;"	s	line:6	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+विडियो संसाधनों के बारे में	translations/README-hi.md	/^- [The myth of the Genius Programmer](https:\/\/www.youtube.com\/watch?v=0SARbwvhupQ)$/;"	s	line:131	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+वैकल्पिक पुस्तकें	translations/README-hi.md	/^    $/;"	S	line:255	language:Markdown	section:कोडिंग साक्षात्कार विश्वविद्यालय""पुस्तक सूची
+शायद	translations/README-hi.md	/^- [ ] [विशाल डेटासेट खनन – स्टैनफोर्ड वि/;"	s	line:1713	language:Markdown	chapter:कोडिंग साक्षात्कार विश्वविद्यालय
+सी ++	translations/README-hi.md	/^[यहां अतिरिक्त भाषा-विशिष्ट संसाधन ह/;"	S	line:223	language:Markdown	section:कोडिंग साक्षात्कार विश्वविद्यालय""पुस्तक सूची
+१. आपसे यह सब याद नहीं होगा	translations/README-hi.md	/^नीचे कुछ गलतिया हैं जो मैंने की हैं तो/;"	S	line:298	language:Markdown	section:कोडिंग साक्षात्कार विश्वविद्यालय""प्रारंभ करने से पहले
+२. फ़्लैशकार्ड्स का उपयोग कीजिये	translations/README-hi.md	/^[कंप्यूटर विज्ञान ज्ञान को बनाए रखना/;"	S	line:305	language:Markdown	section:कोडिंग साक्षात्कार विश्वविद्यालय""प्रारंभ करने से पहले
+กระบวนการการสัมภาษณ์และการเตรียมตัว	translations/README-th.md	/^## กระบวนการการสัมภาษณ์และการเตรีย/;"	s	line:209	language:Markdown	chapter:Coding Interview University
+ก่อนที่จะเริ่มต้น	translations/README-th.md	/^## ก่อนที่จะเริ่มต้น$/;"	s	line:370	language:Markdown	chapter:Coding Interview University
+ความซับซ้อนของขั้นตอนวิธี / Big-O / การวิเคราะห์ Asymptotic	translations/README-th.md	/^## ความซับซ้อนของขั้นตอนวิธี \/ Big-O \/ กา/;"	s	line:470	language:Markdown	chapter:Coding Interview University
+ความรู้พื้นฐานที่จำเป็น	translations/README-th.md	/^## ความรู้พื้นฐานที่จำเป็น$/;"	s	line:457	language:Markdown	chapter:Coding Interview University
+ตารางสารบัญ	translations/README-th.md	/^## ตารางสารบัญ$/;"	s	line:44	language:Markdown	chapter:Coding Interview University
+ทำไมต้องใช้?	translations/README-th.md	/^## ทำไมต้องใช้?$/;"	s	line:156	language:Markdown	chapter:Coding Interview University
+นี่คืออะไร ?	translations/README-th.md	/^## นี่คืออะไร ?$/;"	s	line:29	language:Markdown	chapter:Coding Interview University
+รายชื่อหนังสือ	translations/README-th.md	/^## รายชื่อหนังสือ$/;"	s	line:247	language:Markdown	chapter:Coding Interview University
+สถาปัตยกรรม คอมพิวเตอร์	translations/README-th.md	/^### สถาปัตยกรรม คอมพิวเตอร์$/;"	S	line:265	language:Markdown	section:Coding Interview University""รายชื่อหนังสือ
+สำหรับแต่ละภาษา	translations/README-th.md	/^### สำหรับแต่ละภาษา$/;"	S	line:288	language:Markdown	section:Coding Interview University""รายชื่อหนังสือ
+หนังสืออื่นๆ	translations/README-th.md	/^### หนังสืออื่นๆ$/;"	S	line:329	language:Markdown	section:Coding Interview University""รายชื่อหนังสือ
+หลักสูตร วิทยาการคอมพิวเตอร์	translations/README-th.md	/^## หลักสูตร วิทยาการคอมพิวเตอร์$/;"	s	line:1934	language:Markdown	chapter:Coding Interview University
+ห้ามรู้สึกว่าคุณไม่ฉลาดพอ	translations/README-th.md	/^## ห้ามรู้สึกว่าคุณไม่ฉลาดพอ $/;"	s	line:195	language:Markdown	chapter:Coding Interview University
+อะไรที่ไม่ครอบคลุม	translations/README-th.md	/^## อะไรที่ไม่ครอบคลุม$/;"	s	line:419	language:Markdown	chapter:Coding Interview University
+เกี่ยวกับแหล่งที่มาของวีดีโอ	translations/README-th.md	/^## เกี่ยวกับแหล่งที่มาของวีดีโอ$/;"	s	line:200	language:Markdown	chapter:Coding Interview University
+เตรียมตัวสัมภาษณ์	translations/README-th.md	/^### เตรียมตัวสัมภาษณ์$/;"	S	line:251	language:Markdown	section:Coding Interview University""รายชื่อหนังสือ
+เลือกภาษาสำหรับการสัมภาษณ์	translations/README-th.md	/^## เลือกภาษาสำหรับการสัมภาษณ์$/;"	s	line:224	language:Markdown	chapter:Coding Interview University
+แผนของแต่ละวัน	translations/README-th.md	/^## แผนของแต่ละวัน$/;"	s	line:427	language:Markdown	chapter:Coding Interview University
+โครงสร้างข้อมูล	translations/README-th.md	/^## โครงสร้างข้อมูล$/;"	s	line:494	language:Markdown	chapter:Coding Interview University
+ใช้อย่างไร	translations/README-th.md	/^## ใช้อย่างไร$/;"	s	line:166	language:Markdown	chapter:Coding Interview University
+一些主题的额外内容	translations/README-cn.md	/^## 一些主题的额外内容$/;"	s	line:1559	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+一旦你得到工作	translations/README-tw.md	/^## 一旦你得到工作$/;"	s	line:1307	language:Markdown	chapter:Coding Interview University
+不要妄自菲薄	translations/README-cn.md	/^## 不要妄自菲薄$/;"	s	line:155	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+为何要用到它？	translations/README-cn.md	/^## 为何要用到它？$/;"	s	line:116	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+为你的面试选择一种语言	translations/README-cn.md	/^## 为你的面试选择一种语言$/;"	s	line:210	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+书籍	translations/README-cn.md	/^## 书籍$/;"	s	line:1137	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+你所看不到的	translations/README-cn.md	/^## 你所看不到的$/;"	s	line:270	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+你的履歷	translations/README-tw.md	/^## 你的履歷$/;"	s	line:1288	language:Markdown	chapter:Coding Interview University
+你的简历	translations/README-cn.md	/^## 你的简历$/;"	s	line:1222	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+关于 Google	translations/README-cn.md	/^## 关于 Google$/;"	s	line:160	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+图（Graphs）	translations/README-cn.md	/^## 图（Graphs）$/;"	s	line:727	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+圖	translations/README-tw.md	/^## 圖$/;"	s	line:779	language:Markdown	chapter:Coding Interview University
+在你开始之前	translations/README-cn.md	/^## 在你开始之前$/;"	s	line:237	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+在你開始之前	translations/README-tw.md	/^## 在你開始之前$/;"	s	line:342	language:Markdown	chapter:Coding Interview University
+如何使用它	translations/README-cn.md	/^## 如何使用它$/;"	s	line:124	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+如果你有时间	translations/README-cn.md	/^### 如果你有时间$/;"	S	line:1177	language:Markdown	section:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试""书籍
+如果你有額外的時間(If you have tons of extra time):	translations/README-tw.md	/^### 如果你有額外的時間(If you have tons of extra time):$/;"	S	line:290	language:Markdown	section:Coding Interview University""書單(Book List)
+当你临近面试时	translations/README-cn.md	/^## 当你临近面试时$/;"	s	line:1215	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+当你获得了梦想的职位	translations/README-cn.md	/^## 当你获得了梦想的职位$/;"	s	line:1261	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+当面试来临的时候	translations/README-cn.md	/^## 当面试来临的时候$/;"	s	line:1228	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+影片系列	translations/README-tw.md	/^## 影片系列$/;"	s	line:1787	language:Markdown	chapter:Coding Interview University
+必备知识	translations/README-cn.md	/^## 必备知识$/;"	s	line:307	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+想想面試時可能的狀況	translations/README-tw.md	/^## 想想面試時可能的狀況$/;"	s	line:1292	language:Markdown	chapter:Coding Interview University
+我得到了工作吗？	translations/README-cn.md	/^## 我得到了工作吗？$/;"	s	line:134	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+排序	translations/README-tw.md	/^## 排序$/;"	s	line:705	language:Markdown	chapter:Coding Interview University
+排序:	translations/README-cn.md	/^#### 排序:$/;"	t	line:1132	language:Markdown	section:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试""终面
+排序（Sorting）	translations/README-cn.md	/^## 排序（Sorting）$/;"	s	line:662	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+数据结构	translations/README-cn.md	/^## 数据结构$/;"	s	line:345	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+日常计划	translations/README-cn.md	/^## 日常计划$/;"	s	line:278	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+更多	translations/README-tw.md	/^## 更多$/;"	s	line:589	language:Markdown	chapter:Coding Interview University
+更多的知识	translations/README-cn.md	/^## 更多的知识$/;"	s	line:466	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+更多知識	translations/README-tw.md	/^## 更多知識$/;"	s	line:839	language:Markdown	chapter:Coding Interview University
+更多知识	translations/README-cn.md	/^## 更多知识$/;"	s	line:791	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+書單(Book List)	translations/README-tw.md	/^## 書單(Book List)$/;"	s	line:277	language:Markdown	chapter:Coding Interview University
+某些主題的額外知識	translations/README-tw.md	/^## 某些主題的額外知識$/;"	s	line:1702	language:Markdown	chapter:Coding Interview University
+树（Trees）	translations/README-cn.md	/^## 树（Trees）$/;"	s	line:504	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+樹狀結構(Tree)	translations/README-tw.md	/^## 樹狀結構(Tree)$/;"	s	line:624	language:Markdown	chapter:Coding Interview University
+每日計畫	translations/README-tw.md	/^## 每日計畫$/;"	s	line:402	language:Markdown	chapter:Coding Interview University
+演算法複雜度(Algorithmic complexity) / Big-O / 漸進分析(Asymptotic analysis)	translations/README-tw.md	/^## 演算法複雜度(Algorithmic complexity) \/ Big-O \/ 漸進分析(Asymptotic analysis)$/;"	s	line:446	language:Markdown	chapter:Coding Interview University
+目录	translations/README-cn.md	/^## 目录$/;"	s	line:20	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+目錄	translations/README-tw.md	/^## 目錄$/;"	s	line:62	language:Markdown	chapter:Coding Interview University
+相关视频资源	translations/README-cn.md	/^## 相关视频资源$/;"	s	line:177	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+程式語言精進	translations/README-tw.md	/^### 程式語言精進$/;"	S	line:300	language:Markdown	section:Coding Interview University""書單(Book List)
+算法复杂度 / Big-O / 渐进分析法	translations/README-cn.md	/^## 算法复杂度 \/ Big-O \/ 渐进分析法$/;"	s	line:323	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+系統設計、可擴充性、資料處理	translations/README-tw.md	/^## 系統設計、可擴充性、資料處理$/;"	s	line:1066	language:Markdown	chapter:Coding Interview University
+總複習	translations/README-tw.md	/^## 總複習$/;"	s	line:1195	language:Markdown	chapter:Coding Interview University
+终面	translations/README-cn.md	/^## 终面$/;"	s	line:1120	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+综述:	translations/README-cn.md	/^#### 综述:$/;"	t	line:1125	language:Markdown	section:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试""终面
+编码练习和挑战	translations/README-cn.md	/^## 编码练习和挑战$/;"	s	line:1185	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+视频系列	translations/README-cn.md	/^## 视频系列$/;"	s	line:1588	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+解題練習	translations/README-tw.md	/^## 解題練習$/;"	s	line:1209	language:Markdown	chapter:Coding Interview University
+解題練習/挑戰	translations/README-tw.md	/^## 解題練習\/挑戰$/;"	s	line:1245	language:Markdown	chapter:Coding Interview University
+論文	translations/README-tw.md	/^## 論文$/;"	s	line:1856	language:Markdown	chapter:Coding Interview University
+计算机科学课程	translations/README-cn.md	/^## 计算机科学课程$/;"	s	line:1647	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+資料結構	translations/README-tw.md	/^## 資料結構$/;"	s	line:469	language:Markdown	chapter:Coding Interview University
+跟着我的脚步	translations/README-cn.md	/^## 跟着我的脚步$/;"	s	line:142	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+这是？	translations/README-cn.md	/^## 这是？$/;"	s	line:10	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+這份清單沒有包含的內容	translations/README-tw.md	/^## 這份清單沒有包含的內容$/;"	s	line:394	language:Markdown	chapter:Coding Interview University
+選修書籍	translations/README-tw.md	/^## 選修書籍$/;"	s	line:1330	language:Markdown	chapter:Coding Interview University
+问面试官的问题	translations/README-cn.md	/^## 问面试官的问题$/;"	s	line:1247	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+附加书单	translations/README-cn.md	/^### 附加书单$/;"	S	line:1162	language:Markdown	section:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试""书籍
+附加的学习	translations/README-cn.md	/^## 附加的学习$/;"	s	line:1284	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+電腦科學課程	translations/README-tw.md	/^## 電腦科學課程$/;"	s	line:1851	language:Markdown	chapter:Coding Interview University
+面試前夕	translations/README-tw.md	/^## 面試前夕$/;"	s	line:1282	language:Markdown	chapter:Coding Interview University
+面試時專精一種程式語言(Pick One Language for the Interview)	translations/README-tw.md	/^## 面試時專精一種程式語言(Pick One Language for the Interview)$/;"	s	line:252	language:Markdown	chapter:Coding Interview University
+面試準備(Interview Prep)	translations/README-tw.md	/^### 面試準備(Interview Prep)$/;"	S	line:281	language:Markdown	section:Coding Interview University""書單(Book List)
+面试过程 & 通用的面试准备	translations/README-cn.md	/^## 面试过程 & 通用的面试准备$/;"	s	line:183	language:Markdown	chapter:[译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+額外學習	translations/README-tw.md	/^## 額外學習$/;"	s	line:1389	language:Markdown	chapter:Coding Interview University
+額外資源	translations/README-tw.md	/^## 額外資源$/;"	s	line:132	language:Markdown	chapter:Coding Interview University
+그래프	translations/README-ko.md	/^## 그래프$/;"	s	line:814	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+다루지 않을 것	translations/README-ko.md	/^## 다루지 않을 것$/;"	s	line:416	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+당신은 충분히 똑똑합니다	translations/README-ko.md	/^## 당신은 충분히 똑똑합니다$/;"	s	line:230	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+도서 목록	translations/README-ko.md	/^## 도서 목록$/;"	s	line:291	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+라이센스	translations/README-ko.md	/^## 라이센스$/;"	s	line:1979	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+만일 당신이 많은 여유 시간이 있다면:	translations/README-ko.md	/^### 만일 당신이 많은 여유 시간이 있다면:$/;"	S	line:304	language:Markdown	section:코딩 인터뷰 대학(Coding Interview University)""도서 목록
+먼저 알아야 할 지식	translations/README-ko.md	/^## 먼저 알아야 할 지식$/;"	s	line:455	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+면접관에게 받았던 질문들	translations/README-ko.md	/^## 면접관에게 받았던 질문들$/;"	s	line:1361	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+몇몇 주제에 대한 세부사항	translations/README-ko.md	/^## 몇몇 주제에 대한 세부사항$/;"	s	line:1788	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+목차	translations/README-ko.md	/^## 목차$/;"	s	line:63	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+시스템 디자인, 확장성, 데이터 핸들링	translations/README-ko.md	/^## 시스템 디자인, 확장성, 데이터 핸들링$/;"	s	line:1107	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+시작하기 전에	translations/README-ko.md	/^## 시작하기 전에$/;"	s	line:359	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+알고리즘 복잡도 / Big-O / 점근적 분석	translations/README-ko.md	/^## 알고리즘 복잡도 \/ Big-O \/ 점근적 분석$/;"	s	line:470	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+어떻게 사용하면 되나요?	translations/README-ko.md	/^## 어떻게 사용하면 되나요?$/;"	s	line:192	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+영상 자료에 관하여	translations/README-ko.md	/^## 영상 자료에 관하여$/;"	s	line:235	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+이걸 왜 써야하죠?	translations/README-ko.md	/^## 이걸 왜 써야하죠?$/;"	s	line:181	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+이력서	translations/README-ko.md	/^## 이력서$/;"	s	line:1338	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+인터뷰 과정 & 전반적인 인터뷰 준비 과정	translations/README-ko.md	/^## 인터뷰 과정 & 전반적인 인터뷰 준비 과정$/;"	s	line:243	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+인터뷰 준비를 위해서	translations/README-ko.md	/^### 인터뷰 준비를 위해서$/;"	S	line:295	language:Markdown	section:코딩 인터뷰 대학(Coding Interview University)""도서 목록
+인터뷰가 다가오면 생각해보기	translations/README-ko.md	/^## 인터뷰가 다가오면 생각해보기$/;"	s	line:1343	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+인터뷰가 얼마 남지 않았을 때	translations/README-ko.md	/^## 인터뷰가 얼마 남지 않았을 때$/;"	s	line:1332	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+인터뷰를 위한 언어 고르기	translations/README-ko.md	/^## 인터뷰를 위한 언어 고르기$/;"	s	line:266	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+자료구조	translations/README-ko.md	/^## 자료구조$/;"	s	line:493	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+정렬	translations/README-ko.md	/^## 정렬$/;"	s	line:739	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+최종 검토	translations/README-ko.md	/^## 최종 검토$/;"	s	line:1235	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+추가 지식	translations/README-ko.md	/^## 추가 지식$/;"	s	line:620	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+취직했다면	translations/README-ko.md	/^## 취직했다면$/;"	s	line:1376	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+컴퓨터 과학 강의들	translations/README-ko.md	/^## 컴퓨터 과학 강의들$/;"	s	line:1938	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+코딩 문제 연습	translations/README-ko.md	/^## 코딩 문제 연습$/;"	s	line:1249	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+코딩 연습/도전	translations/README-ko.md	/^## 코딩 연습\/도전$/;"	s	line:1287	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+코딩 인터뷰 대학(Coding Interview University)	translations/README-ko.md	/^# 코딩 인터뷰 대학(Coding Interview University)$/;"	c	line:1	language:Markdown
+코딩 인터뷰 대학이란?	translations/README-ko.md	/^## 코딩 인터뷰 대학이란?$/;"	s	line:49	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+트리	translations/README-ko.md	/^## 트리$/;"	s	line:656	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
+특정 언어 관련	translations/README-ko.md	/^### 특정 언어 관련$/;"	S	line:314	language:Markdown	section:코딩 인터뷰 대학(Coding Interview University)""도서 목록
+하루 하루의 계획	translations/README-ko.md	/^## 하루 하루의 계획$/;"	s	line:424	language:Markdown	chapter:코딩 인터뷰 대학(Coding Interview University)
